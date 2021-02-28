@@ -1,0 +1,5 @@
+AircraftCarrier 15 7 E S
+Frigate 41 20 S E
+Submarine 25 25 S W
+Cruiser 19 39 E N
+PatrolCraft 10 20 S E

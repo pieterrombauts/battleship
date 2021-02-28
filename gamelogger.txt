@@ -1,0 +1,4635 @@
+Round 1
+Player 1 guesses/fires at row 20 column 22.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 20 column 36.
+Player 1 answers that guess/shot missed.
+Round 2
+Player 1 guesses/fires at row 29 column 36.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 22 column 38.
+Player 1 answers that guess/shot missed.
+Round 3
+Player 1 guesses/fires at row 3 column 35.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 39 column 21.
+Player 1 answers that guess/shot missed.
+Round 4
+Player 1 guesses/fires at row 25 column 41.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 36 column 16.
+Player 1 answers that guess/shot missed.
+Round 5
+Player 1 guesses/fires at row 6 column 28.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 8 column 38.
+Player 1 answers that guess/shot missed.
+Round 6
+Player 1 guesses/fires at row 19 column 44.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 10 column 46.
+Player 1 answers that guess/shot missed.
+Round 7
+Player 1 guesses/fires at row 34 column 15.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 27 column 21.
+Player 1 answers that guess/shot missed.
+Round 8
+Player 1 guesses/fires at row 45 column 39.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 27 column 25.
+Player 1 answers that guess/shot missed.
+Round 9
+Player 1 guesses/fires at row 40 column 42.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 2 column 28.
+Player 1 answers that guess/shot missed.
+Round 10
+Player 1 guesses/fires at row 36 column 12.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 45 column 27.
+Player 1 answers that guess/shot missed.
+Round 11
+Player 1 guesses/fires at row 20 column 38.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 43 column 15.
+Player 1 answers that guess/shot missed.
+Round 12
+Player 1 guesses/fires at row 38 column 44.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 17 column 17.
+Player 1 answers that guess/shot missed.
+Round 13
+Player 1 guesses/fires at row 39 column 38.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 45 column 41.
+Player 1 answers that guess/shot missed.
+Round 14
+Player 1 guesses/fires at row 28 column 40.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 0 column 28.
+Player 1 answers that guess/shot missed.
+Round 15
+Player 1 guesses/fires at row 3 column 4.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 43 column 33.
+Player 1 answers that guess/shot missed.
+Round 16
+Player 1 guesses/fires at row 8 column 39.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 35 column 1.
+Player 1 answers that guess/shot missed.
+Round 17
+Player 1 guesses/fires at row 22 column 19.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 7 column 1.
+Player 1 answers that guess/shot missed.
+Round 18
+Player 1 guesses/fires at row 40 column 3.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 32 column 2.
+Player 1 answers that guess/shot missed.
+Round 19
+Player 1 guesses/fires at row 22 column 43.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 11 column 25.
+Player 1 answers that guess/shot missed.
+Round 20
+Player 1 guesses/fires at row 14 column 29.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 35 column 9.
+Player 1 answers that guess/shot missed.
+Round 21
+Player 1 guesses/fires at row 6 column 24.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 12 column 8.
+Player 1 answers that guess/shot missed.
+Round 22
+Player 1 guesses/fires at row 44 column 18.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 23 column 39.
+Player 1 answers that guess/shot missed.
+Round 23
+Player 1 guesses/fires at row 12 column 26.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 11 column 19.
+Player 1 answers that guess/shot missed.
+Round 24
+Player 1 guesses/fires at row 45 column 5.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 18 column 26.
+Player 1 answers that guess/shot missed.
+Round 25
+Player 1 guesses/fires at row 23 column 27.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 36 column 4.
+Player 1 answers that guess/shot missed.
+Round 26
+Player 1 guesses/fires at row 46 column 46.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 43 column 3.
+Player 1 answers that guess/shot missed.
+Round 27
+Player 1 guesses/fires at row 26 column 3.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 29 column 35.
+Player 1 answers that guess/shot missed.
+Round 28
+Player 1 guesses/fires at row 36 column 31.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 1 column 43.
+Player 1 answers that guess/shot missed.
+Round 29
+Player 1 guesses/fires at row 26 column 25.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 15 column 1.
+Player 1 answers that guess/shot missed.
+Round 30
+Player 1 guesses/fires at row 27 column 16.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 47 column 21.
+Player 1 answers that guess/shot missed.
+Round 31
+Player 1 guesses/fires at row 42 column 37.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 1 column 33.
+Player 1 answers that guess/shot missed.
+Round 32
+Player 1 guesses/fires at row 35 column 43.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 11 column 31.
+Player 1 answers that guess/shot missed.
+Round 33
+Player 1 guesses/fires at row 44 column 14.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 7 column 13.
+Player 1 answers that guess/shot missed.
+Round 34
+Player 1 guesses/fires at row 34 column 6.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 12 column 20.
+Player 1 answers that guess/shot missed.
+Round 35
+Player 1 guesses/fires at row 31 column 13.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 47 column 35.
+Player 1 answers that guess/shot missed.
+Round 36
+Player 1 guesses/fires at row 12 column 16.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 34 column 8.
+Player 1 answers that guess/shot missed.
+Round 37
+Player 1 guesses/fires at row 6 column 41.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 25 column 33.
+Player 1 answers that guess/shot missed.
+Round 38
+Player 1 guesses/fires at row 29 column 43.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 15 column 37.
+Player 1 answers that guess/shot missed.
+Round 39
+Player 1 guesses/fires at row 30 column 9.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 20 column 10.
+Player 1 answers that guess/shot missed.
+Round 40
+Player 1 guesses/fires at row 30 column 29.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 17 column 25.
+Player 1 answers that guess/shot missed.
+Round 41
+Player 1 guesses/fires at row 21 column 10.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 28 column 46.
+Player 1 answers that guess/shot missed.
+Round 42
+Player 1 guesses/fires at row 40 column 33.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 21 column 27.
+Player 1 answers that guess/shot missed.
+Round 43
+Player 1 guesses/fires at row 16 column 16.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 29 column 5.
+Player 1 answers that guess/shot missed.
+Round 44
+Player 1 guesses/fires at row 11 column 37.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 3 column 49.
+Player 1 answers that guess/shot missed.
+Round 45
+Player 1 guesses/fires at row 34 column 10.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 0 column 46.
+Player 1 answers that guess/shot missed.
+Round 46
+Player 1 guesses/fires at row 46 column 12.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 24 column 24.
+Player 1 answers that guess/shot missed.
+Round 47
+Player 1 guesses/fires at row 23 column 8.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 2 column 32.
+Player 1 answers that guess/shot missed.
+Round 48
+Player 1 guesses/fires at row 44 column 35.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 40 column 42.
+Player 1 answers that guess/shot missed.
+Round 49
+Player 1 guesses/fires at row 7 column 6.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 45 column 35.
+Player 1 answers that guess/shot missed.
+Round 50
+Player 1 guesses/fires at row 39 column 27.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 36 column 14.
+Player 1 answers that guess/shot missed.
+Round 51
+Player 1 guesses/fires at row 29 column 22.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 49 column 17.
+Player 1 answers that guess/shot missed.
+Round 52
+Player 1 guesses/fires at row 32 column 31.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 22 column 40.
+Player 1 answers that guess/shot missed.
+Round 53
+Player 1 guesses/fires at row 8 column 18.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 13 column 47.
+Player 1 answers that guess/shot missed.
+Round 54
+Player 1 guesses/fires at row 39 column 20.
+Player 2 answers that a ship is hit.
+Player 2 guesses/fires at row 40 column 46.
+Player 1 answers that guess/shot missed.
+Round 55
+Player 1 guesses/fires at row 39 column 21.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 23 column 11.
+Player 1 answers that guess/shot missed.
+Round 56
+Player 1 guesses/fires at row 39 column 19.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 1 column 47.
+Player 1 answers that guess/shot missed.
+Round 57
+Player 1 guesses/fires at row 40 column 20.
+Player 2 answers that a ship is hit.
+Player 2 guesses/fires at row 8 column 16.
+Player 1 answers that guess/shot missed.
+Round 58
+Player 1 guesses/fires at row 41 column 20.
+Player 2 answers that a ship is hit.
+Player 2 guesses/fires at row 18 column 12.
+Player 1 answers that guess/shot missed.
+Round 59
+Player 1 guesses/fires at row 42 column 20.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 21 column 35.
+Player 1 answers that guess/shot missed.
+Round 60
+Player 1 guesses/fires at row 41 column 21.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 44 column 24.
+Player 1 answers that guess/shot missed.
+Round 61
+Player 1 guesses/fires at row 38 column 20.
+Player 2 answers that the Frigate is hit and sunk.
+Player 2 guesses/fires at row 7 column 3.
+Player 1 answers that guess/shot missed.
+Round 62
+Player 1 guesses/fires at row 34 column 38.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 0 column 4.
+Player 1 answers that guess/shot missed.
+Round 63
+Player 1 guesses/fires at row 22 column 36.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 36 column 26.
+Player 1 answers that guess/shot missed.
+Round 64
+Player 1 guesses/fires at row 11 column 4.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 32 column 14.
+Player 1 answers that guess/shot missed.
+Round 65
+Player 1 guesses/fires at row 3 column 39.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 24 column 26.
+Player 1 answers that guess/shot missed.
+Round 66
+Player 1 guesses/fires at row 2 column 28.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 41 column 33.
+Player 1 answers that guess/shot missed.
+Round 67
+Player 1 guesses/fires at row 6 column 47.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 0 column 26.
+Player 1 answers that guess/shot missed.
+Round 68
+Player 1 guesses/fires at row 33 column 45.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 40 column 48.
+Player 1 answers that guess/shot missed.
+Round 69
+Player 1 guesses/fires at row 25 column 12.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 39 column 9.
+Player 1 answers that guess/shot missed.
+Round 70
+Player 1 guesses/fires at row 12 column 23.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 42 column 4.
+Player 1 answers that guess/shot missed.
+Round 71
+Player 1 guesses/fires at row 32 column 24.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 1 column 17.
+Player 1 answers that guess/shot missed.
+Round 72
+Player 1 guesses/fires at row 47 column 7.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 8 column 24.
+Player 1 answers that guess/shot missed.
+Round 73
+Player 1 guesses/fires at row 21 column 3.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 4 column 46.
+Player 1 answers that guess/shot missed.
+Round 74
+Player 1 guesses/fires at row 8 column 26.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 0 column 34.
+Player 1 answers that guess/shot missed.
+Round 75
+Player 1 guesses/fires at row 30 column 26.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 33 column 11.
+Player 1 answers that guess/shot missed.
+Round 76
+Player 1 guesses/fires at row 42 column 28.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 12 column 38.
+Player 1 answers that guess/shot missed.
+Round 77
+Player 1 guesses/fires at row 26 column 34.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 40 column 30.
+Player 1 answers that guess/shot missed.
+Round 78
+Player 1 guesses/fires at row 15 column 41.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 17 column 21.
+Player 1 answers that guess/shot missed.
+Round 79
+Player 1 guesses/fires at row 21 column 46.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 33 column 43.
+Player 1 answers that guess/shot missed.
+Round 80
+Player 1 guesses/fires at row 15 column 4.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 24 column 40.
+Player 1 answers that guess/shot missed.
+Round 81
+Player 1 guesses/fires at row 14 column 33.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 31 column 15.
+Player 1 answers that guess/shot missed.
+Round 82
+Player 1 guesses/fires at row 12 column 47.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 38 column 46.
+Player 1 answers that guess/shot missed.
+Round 83
+Player 1 guesses/fires at row 17 column 36.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 18 column 24.
+Player 1 answers that guess/shot missed.
+Round 84
+Player 1 guesses/fires at row 30 column 46.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 28 column 26.
+Player 1 answers that guess/shot missed.
+Round 85
+Player 1 guesses/fires at row 16 column 19.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 9 column 45.
+Player 1 answers that guess/shot missed.
+Round 86
+Player 1 guesses/fires at row 37 column 25.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 14 column 18.
+Player 1 answers that guess/shot missed.
+Round 87
+Player 1 guesses/fires at row 39 column 9.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 20 column 42.
+Player 1 answers that guess/shot missed.
+Round 88
+Player 1 guesses/fires at row 29 column 4.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 19 column 27.
+Player 1 answers that guess/shot missed.
+Round 89
+Player 1 guesses/fires at row 11 column 41.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 45 column 15.
+Player 1 answers that guess/shot missed.
+Round 90
+Player 1 guesses/fires at row 6 column 12.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 8 column 12.
+Player 1 answers that guess/shot missed.
+Round 91
+Player 1 guesses/fires at row 10 column 44.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 40 column 4.
+Player 1 answers that guess/shot missed.
+Round 92
+Player 1 guesses/fires at row 46 column 26.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 18 column 36.
+Player 1 answers that guess/shot missed.
+Round 93
+Player 1 guesses/fires at row 43 column 7.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 10 column 32.
+Player 1 answers that guess/shot missed.
+Round 94
+Player 1 guesses/fires at row 23 column 31.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 32 column 16.
+Player 1 answers that guess/shot missed.
+Round 95
+Player 1 guesses/fires at row 19 column 8.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 49 column 47.
+Player 1 answers that guess/shot missed.
+Round 96
+Player 1 guesses/fires at row 43 column 42.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 21 column 7.
+Player 1 answers that guess/shot missed.
+Round 97
+Player 1 guesses/fires at row 13 column 2.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 13 column 31.
+Player 1 answers that guess/shot missed.
+Round 98
+Player 1 guesses/fires at row 35 column 34.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 44 column 38.
+Player 1 answers that guess/shot missed.
+Round 99
+Player 1 guesses/fires at row 39 column 16.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 44 column 30.
+Player 1 answers that guess/shot missed.
+Round 100
+Player 1 guesses/fires at row 47 column 29.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 30 column 0.
+Player 1 answers that guess/shot missed.
+Round 101
+Player 1 guesses/fires at row 36 column 8.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 31 column 29.
+Player 1 answers that guess/shot missed.
+Round 102
+Player 1 guesses/fires at row 16 column 25.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 35 column 47.
+Player 1 answers that guess/shot missed.
+Round 103
+Player 1 guesses/fires at row 34 column 19.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 20 column 2.
+Player 1 answers that guess/shot missed.
+Round 104
+Player 1 guesses/fires at row 11 column 29.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 4 column 40.
+Player 1 answers that guess/shot missed.
+Round 105
+Player 1 guesses/fires at row 16 column 31.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 21 column 39.
+Player 1 answers that guess/shot missed.
+Round 106
+Player 1 guesses/fires at row 43 column 2.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 23 column 23.
+Player 1 answers that guess/shot missed.
+Round 107
+Player 1 guesses/fires at row 7 column 2.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 18 column 20.
+Player 1 answers that guess/shot missed.
+Round 108
+Player 1 guesses/fires at row 35 column 3.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 19 column 3.
+Player 1 answers that guess/shot missed.
+Round 109
+Player 1 guesses/fires at row 36 column 17.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 27 column 33.
+Player 1 answers that guess/shot missed.
+Round 110
+Player 1 guesses/fires at row 19 column 18.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 41 column 19.
+Player 1 answers that guess/shot missed.
+Round 111
+Player 1 guesses/fires at row 40 column 24.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 0 column 6.
+Player 1 answers that guess/shot missed.
+Round 112
+Player 1 guesses/fires at row 19 column 41.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 28 column 42.
+Player 1 answers that guess/shot missed.
+Round 113
+Player 1 guesses/fires at row 2 column 42.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 37 column 49.
+Player 1 answers that guess/shot missed.
+Round 114
+Player 1 guesses/fires at row 16 column 47.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 4 column 2.
+Player 1 answers that guess/shot missed.
+Round 115
+Player 1 guesses/fires at row 43 column 31.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 32 column 32.
+Player 1 answers that guess/shot missed.
+Round 116
+Player 1 guesses/fires at row 26 column 22.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 5 column 11.
+Player 1 answers that guess/shot missed.
+Round 117
+Player 1 guesses/fires at row 12 column 10.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 39 column 15.
+Player 1 answers that guess/shot missed.
+Round 118
+Player 1 guesses/fires at row 28 column 19.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 35 column 49.
+Player 1 answers that guess/shot missed.
+Round 119
+Player 1 guesses/fires at row 38 column 35.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 17 column 47.
+Player 1 answers that guess/shot missed.
+Round 120
+Player 1 guesses/fires at row 11 column 34.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 11 column 15.
+Player 1 answers that guess/shot missed.
+Round 121
+Player 1 guesses/fires at row 47 column 2.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 5 column 37.
+Player 1 answers that guess/shot missed.
+Round 122
+Player 1 guesses/fires at row 8 column 31.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 49 column 25.
+Player 1 answers that guess/shot missed.
+Round 123
+Player 1 guesses/fires at row 2 column 25.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 18 column 8.
+Player 1 answers that guess/shot missed.
+Round 124
+Player 1 guesses/fires at row 31 column 19.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 20 column 30.
+Player 1 answers that guess/shot missed.
+Round 125
+Player 1 guesses/fires at row 27 column 45.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 15 column 47.
+Player 1 answers that guess/shot missed.
+Round 126
+Player 1 guesses/fires at row 7 column 35.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 21 column 45.
+Player 1 answers that guess/shot missed.
+Round 127
+Player 1 guesses/fires at row 20 column 14.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 44 column 8.
+Player 1 answers that guess/shot missed.
+Round 128
+Player 1 guesses/fires at row 21 column 33.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 10 column 34.
+Player 1 answers that guess/shot missed.
+Round 129
+Player 1 guesses/fires at row 2 column 13.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 6 column 24.
+Player 1 answers that guess/shot missed.
+Round 130
+Player 1 guesses/fires at row 7 column 15.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 48 column 28.
+Player 1 answers that guess/shot missed.
+Round 131
+Player 1 guesses/fires at row 3 column 9.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 23 column 17.
+Player 1 answers that guess/shot missed.
+Round 132
+Player 1 guesses/fires at row 22 column 40.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 9 column 27.
+Player 1 answers that guess/shot missed.
+Round 133
+Player 1 guesses/fires at row 13 column 39.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 45 column 1.
+Player 1 answers that guess/shot missed.
+Round 134
+Player 1 guesses/fires at row 34 column 26.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 47 column 23.
+Player 1 answers that guess/shot missed.
+Round 135
+Player 1 guesses/fires at row 47 column 21.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 29 column 23.
+Player 1 answers that guess/shot missed.
+Round 136
+Player 1 guesses/fires at row 9 column 8.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 34 column 20.
+Player 1 answers that guess/shot missed.
+Round 137
+Player 1 guesses/fires at row 10 column 14.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 4 column 28.
+Player 1 answers that guess/shot missed.
+Round 138
+Player 1 guesses/fires at row 3 column 18.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 30 column 10.
+Player 1 answers that guess/shot missed.
+Round 139
+Player 1 guesses/fires at row 47 column 17.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 36 column 32.
+Player 1 answers that guess/shot missed.
+Round 140
+Player 1 guesses/fires at row 47 column 41.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 12 column 34.
+Player 1 answers that guess/shot missed.
+Round 141
+Player 1 guesses/fires at row 23 column 15.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 22 column 4.
+Player 1 answers that guess/shot missed.
+Round 142
+Player 1 guesses/fires at row 24 column 47.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 15 column 49.
+Player 1 answers that guess/shot missed.
+Round 143
+Player 1 guesses/fires at row 15 column 9.
+Player 2 answers that a ship is hit.
+Player 2 guesses/fires at row 47 column 39.
+Player 1 answers that guess/shot missed.
+Round 144
+Player 1 guesses/fires at row 15 column 10.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 49 column 11.
+Player 1 answers that guess/shot missed.
+Round 145
+Player 1 guesses/fires at row 15 column 8.
+Player 2 answers that a ship is hit.
+Player 2 guesses/fires at row 13 column 7.
+Player 1 answers that guess/shot missed.
+Round 146
+Player 1 guesses/fires at row 15 column 7.
+Player 2 answers that a ship is hit.
+Player 2 guesses/fires at row 14 column 40.
+Player 1 answers that guess/shot missed.
+Round 147
+Player 1 guesses/fires at row 14 column 7.
+Player 2 answers that a ship is hit.
+Player 2 guesses/fires at row 26 column 0.
+Player 1 answers that guess/shot missed.
+Round 148
+Player 1 guesses/fires at row 16 column 7.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 38 column 24.
+Player 1 answers that guess/shot missed.
+Round 149
+Player 1 guesses/fires at row 13 column 7.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 33 column 49.
+Player 1 answers that guess/shot missed.
+Round 150
+Player 1 guesses/fires at row 14 column 6.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 25 column 47.
+Player 1 answers that guess/shot missed.
+Round 151
+Player 1 guesses/fires at row 14 column 9.
+Player 2 answers that a ship is hit.
+Player 2 guesses/fires at row 39 column 29.
+Player 1 answers that guess/shot missed.
+Round 152
+Player 1 guesses/fires at row 16 column 9.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 10 column 6.
+Player 1 answers that guess/shot missed.
+Round 153
+Player 1 guesses/fires at row 13 column 9.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 38 column 14.
+Player 1 answers that guess/shot missed.
+Round 154
+Player 1 guesses/fires at row 16 column 8.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 40 column 0.
+Player 1 answers that guess/shot missed.
+Round 155
+Player 1 guesses/fires at row 14 column 10.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 18 column 42.
+Player 1 answers that guess/shot missed.
+Round 156
+Player 1 guesses/fires at row 15 column 6.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 48 column 2.
+Player 1 answers that guess/shot missed.
+Round 157
+Player 1 guesses/fires at row 14 column 8.
+Player 2 answers that the AircraftCarrier is hit and sunk.
+Player 2 guesses/fires at row 24 column 30.
+Player 1 answers that guess/shot missed.
+Round 158
+Player 1 guesses/fires at row 21 column 17.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 42 column 38.
+Player 1 answers that guess/shot missed.
+Round 159
+Player 1 guesses/fires at row 43 column 25.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 24 column 12.
+Player 1 answers that guess/shot missed.
+Round 160
+Player 1 guesses/fires at row 30 column 2.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 39 column 1.
+Player 1 answers that guess/shot missed.
+Round 161
+Player 1 guesses/fires at row 38 column 30.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 15 column 43.
+Player 1 answers that guess/shot missed.
+Round 162
+Player 1 guesses/fires at row 29 column 15.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 17 column 23.
+Player 1 answers that guess/shot missed.
+Round 163
+Player 1 guesses/fires at row 5 column 16.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 33 column 23.
+Player 1 answers that guess/shot missed.
+Round 164
+Player 1 guesses/fires at row 30 column 39.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 15 column 39.
+Player 1 answers that guess/shot missed.
+Round 165
+Player 1 guesses/fires at row 35 column 23.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 9 column 25.
+Player 1 answers that guess/shot missed.
+Round 166
+Player 1 guesses/fires at row 18 column 21.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 4 column 16.
+Player 1 answers that guess/shot missed.
+Round 167
+Player 1 guesses/fires at row 10 column 27.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 33 column 15.
+Player 1 answers that guess/shot missed.
+Round 168
+Player 1 guesses/fires at row 22 column 29.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 23 column 43.
+Player 1 answers that guess/shot missed.
+Round 169
+Player 1 guesses/fires at row 31 column 41.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 39 column 43.
+Player 1 answers that guess/shot missed.
+Round 170
+Player 1 guesses/fires at row 4 column 30.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 45 column 33.
+Player 1 answers that guess/shot missed.
+Round 171
+Player 1 guesses/fires at row 9 column 20.
+Player 2 answers that a ship is hit.
+Player 2 guesses/fires at row 44 column 46.
+Player 1 answers that guess/shot missed.
+Round 172
+Player 1 guesses/fires at row 10 column 20.
+Player 2 answers that the PatrolCraft is hit and sunk.
+Player 2 guesses/fires at row 36 column 8.
+Player 1 answers that guess/shot missed.
+Round 173
+Player 1 guesses/fires at row 45 column 44.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 47 column 11.
+Player 1 answers that guess/shot missed.
+Round 174
+Player 1 guesses/fires at row 24 column 44.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 35 column 11.
+Player 1 answers that guess/shot missed.
+Round 175
+Player 1 guesses/fires at row 31 column 35.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 34 column 2.
+Player 1 answers that guess/shot missed.
+Round 176
+Player 1 guesses/fires at row 11 column 18.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 3 column 17.
+Player 1 answers that guess/shot missed.
+Round 177
+Player 1 guesses/fires at row 18 column 28.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 6 column 22.
+Player 1 answers that guess/shot missed.
+Round 178
+Player 1 guesses/fires at row 41 column 26.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 49 column 19.
+Player 1 answers that guess/shot missed.
+Round 179
+Player 1 guesses/fires at row 29 column 32.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 16 column 30.
+Player 1 answers that guess/shot missed.
+Round 180
+Player 1 guesses/fires at row 16 column 44.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 6 column 14.
+Player 1 answers that guess/shot missed.
+Round 181
+Player 1 guesses/fires at row 36 column 36.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 7 column 21.
+Player 1 answers that guess/shot missed.
+Round 182
+Player 1 guesses/fires at row 27 column 5.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 26 column 2.
+Player 1 answers that guess/shot missed.
+Round 183
+Player 1 guesses/fires at row 38 column 2.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 16 column 0.
+Player 1 answers that guess/shot missed.
+Round 184
+Player 1 guesses/fires at row 27 column 42.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 15 column 45.
+Player 1 answers that guess/shot missed.
+Round 185
+Player 1 guesses/fires at row 18 column 10.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 32 column 20.
+Player 1 answers that guess/shot missed.
+Round 186
+Player 1 guesses/fires at row 6 column 21.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 47 column 49.
+Player 1 answers that guess/shot missed.
+Round 187
+Player 1 guesses/fires at row 23 column 23.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 0 column 16.
+Player 1 answers that guess/shot missed.
+Round 188
+Player 1 guesses/fires at row 18 column 34.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 27 column 47.
+Player 1 answers that guess/shot missed.
+Round 189
+Player 1 guesses/fires at row 29 column 7.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 49 column 35.
+Player 1 answers that guess/shot missed.
+Round 190
+Player 1 guesses/fires at row 3 column 21.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 0 column 8.
+Player 1 answers that guess/shot missed.
+Round 191
+Player 1 guesses/fires at row 46 column 15.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 29 column 11.
+Player 1 answers that guess/shot missed.
+Round 192
+Player 1 guesses/fires at row 33 column 28.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 7 column 27.
+Player 1 answers that guess/shot missed.
+Round 193
+Player 1 guesses/fires at row 13 column 19.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 21 column 25.
+Player 1 answers that guess/shot missed.
+Round 194
+Player 1 guesses/fires at row 41 column 6.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 20 column 24.
+Player 1 answers that guess/shot missed.
+Round 195
+Player 1 guesses/fires at row 28 column 28.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 49 column 1.
+Player 1 answers that guess/shot missed.
+Round 196
+Player 1 guesses/fires at row 37 column 40.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 34 column 44.
+Player 1 answers that guess/shot missed.
+Round 197
+Player 1 guesses/fires at row 10 column 6.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 47 column 17.
+Player 1 answers that guess/shot missed.
+Round 198
+Player 1 guesses/fires at row 5 column 38.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 27 column 43.
+Player 1 answers that guess/shot missed.
+Round 199
+Player 1 guesses/fires at row 41 column 35.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 2 column 42.
+Player 1 answers that guess/shot missed.
+Round 200
+Player 1 guesses/fires at row 8 column 42.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 26 column 44.
+Player 1 answers that guess/shot missed.
+Round 201
+Player 1 guesses/fires at row 3 column 47.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 23 column 27.
+Player 1 answers that guess/shot missed.
+Round 202
+Player 1 guesses/fires at row 38 column 14.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 13 column 49.
+Player 1 answers that guess/shot missed.
+Round 203
+Player 1 guesses/fires at row 19 column 4.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 1 column 21.
+Player 1 answers that guess/shot missed.
+Round 204
+Player 1 guesses/fires at row 19 column 32.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 46 column 32.
+Player 1 answers that guess/shot missed.
+Round 205
+Player 1 guesses/fires at row 45 column 24.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 35 column 45.
+Player 1 answers that guess/shot missed.
+Round 206
+Player 1 guesses/fires at row 15 column 23.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 25 column 5.
+Player 1 answers that guess/shot missed.
+Round 207
+Player 1 guesses/fires at row 14 column 21.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 32 column 12.
+Player 1 answers that guess/shot missed.
+Round 208
+Player 1 guesses/fires at row 5 column 19.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 12 column 6.
+Player 1 answers that guess/shot missed.
+Round 209
+Player 1 guesses/fires at row 2 column 2.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 17 column 7.
+Player 1 answers that guess/shot missed.
+Round 210
+Player 1 guesses/fires at row 41 column 44.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 45 column 9.
+Player 1 answers that guess/shot missed.
+Round 211
+Player 1 guesses/fires at row 42 column 15.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 11 column 33.
+Player 1 answers that guess/shot missed.
+Round 212
+Player 1 guesses/fires at row 13 column 31.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 29 column 29.
+Player 1 answers that guess/shot missed.
+Round 213
+Player 1 guesses/fires at row 36 column 46.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 3 column 41.
+Player 1 answers that guess/shot missed.
+Round 214
+Player 1 guesses/fires at row 5 column 45.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 20 column 12.
+Player 1 answers that guess/shot missed.
+Round 215
+Player 1 guesses/fires at row 4 column 14.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 36 column 42.
+Player 1 answers that guess/shot missed.
+Round 216
+Player 1 guesses/fires at row 33 column 42.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 1 column 27.
+Player 1 answers that guess/shot missed.
+Round 217
+Player 1 guesses/fires at row 4 column 26.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 7 column 11.
+Player 1 answers that guess/shot missed.
+Round 218
+Player 1 guesses/fires at row 4 column 23.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 30 column 28.
+Player 1 answers that guess/shot missed.
+Round 219
+Player 1 guesses/fires at row 9 column 46.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 26 column 38.
+Player 1 answers that guess/shot missed.
+Round 220
+Player 1 guesses/fires at row 46 column 31.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 32 column 44.
+Player 1 answers that guess/shot missed.
+Round 221
+Player 1 guesses/fires at row 26 column 14.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 35 column 5.
+Player 1 answers that guess/shot missed.
+Round 222
+Player 1 guesses/fires at row 44 column 22.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 21 column 19.
+Player 1 answers that guess/shot missed.
+Round 223
+Player 1 guesses/fires at row 26 column 8.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 41 column 7.
+Player 1 answers that guess/shot missed.
+Round 224
+Player 1 guesses/fires at row 9 column 3.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 12 column 16.
+Player 1 answers that guess/shot missed.
+Round 225
+Player 1 guesses/fires at row 43 column 46.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 44 column 36.
+Player 1 answers that guess/shot missed.
+Round 226
+Player 1 guesses/fires at row 16 column 39.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 13 column 41.
+Player 1 answers that guess/shot missed.
+Round 227
+Player 1 guesses/fires at row 46 column 9.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 25 column 11.
+Player 1 answers that guess/shot missed.
+Round 228
+Player 1 guesses/fires at row 22 column 13.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 13 column 45.
+Player 1 answers that guess/shot missed.
+Round 229
+Player 1 guesses/fires at row 9 column 12.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 5 column 17.
+Player 1 answers that guess/shot missed.
+Round 230
+Player 1 guesses/fires at row 36 column 21.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 16 column 20.
+Player 1 answers that guess/shot missed.
+Round 231
+Player 1 guesses/fires at row 24 column 6.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 20 column 46.
+Player 1 answers that guess/shot missed.
+Round 232
+Player 1 guesses/fires at row 24 column 2.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 49 column 23.
+Player 1 answers that guess/shot missed.
+Round 233
+Player 1 guesses/fires at row 42 column 40.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 30 column 4.
+Player 1 answers that guess/shot missed.
+Round 234
+Player 1 guesses/fires at row 47 column 34.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 3 column 35.
+Player 1 answers that guess/shot missed.
+Round 235
+Player 1 guesses/fires at row 6 column 8.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 36 column 28.
+Player 1 answers that guess/shot missed.
+Round 236
+Player 1 guesses/fires at row 25 column 36.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 20 column 28.
+Player 1 answers that guess/shot missed.
+Round 237
+Player 1 guesses/fires at row 4 column 11.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 44 column 4.
+Player 1 answers that guess/shot missed.
+Round 238
+Player 1 guesses/fires at row 36 column 28.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 48 column 26.
+Player 1 answers that guess/shot missed.
+Round 239
+Player 1 guesses/fires at row 9 column 23.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 40 column 38.
+Player 1 answers that guess/shot missed.
+Round 240
+Player 1 guesses/fires at row 2 column 37.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 38 column 36.
+Player 1 answers that guess/shot missed.
+Round 241
+Player 1 guesses/fires at row 25 column 29.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 16 column 40.
+Player 1 answers that guess/shot missed.
+Round 242
+Player 1 guesses/fires at row 40 column 29.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 45 column 3.
+Player 1 answers that guess/shot missed.
+Round 243
+Player 1 guesses/fires at row 38 column 11.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 1 column 37.
+Player 1 answers that guess/shot missed.
+Round 244
+Player 1 guesses/fires at row 14 column 17.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 41 column 17.
+Player 1 answers that guess/shot missed.
+Round 245
+Player 1 guesses/fires at row 33 column 8.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 45 column 13.
+Player 1 answers that guess/shot missed.
+Round 246
+Player 1 guesses/fires at row 24 column 18.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 49 column 41.
+Player 1 answers that guess/shot missed.
+Round 247
+Player 1 guesses/fires at row 33 column 33.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 23 column 3.
+Player 1 answers that guess/shot missed.
+Round 248
+Player 1 guesses/fires at row 28 column 10.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 29 column 33.
+Player 1 answers that guess/shot missed.
+Round 249
+Player 1 guesses/fires at row 42 column 9.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 25 column 1.
+Player 1 answers that guess/shot missed.
+Round 250
+Player 1 guesses/fires at row 10 column 21.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 38 column 20.
+Player 1 answers that a ship is hit.
+Round 251
+Player 1 guesses/fires at row 31 column 5.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 38 column 21.
+Player 1 answers that guess/shot missed.
+Round 252
+Player 1 guesses/fires at row 27 column 37.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 38 column 19.
+Player 1 answers that guess/shot missed.
+Round 253
+Player 1 guesses/fires at row 43 column 11.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 39 column 20.
+Player 1 answers that a ship is hit.
+Round 254
+Player 1 guesses/fires at row 12 column 13.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 39 column 19.
+Player 1 answers that guess/shot missed.
+Round 255
+Player 1 guesses/fires at row 21 column 6.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 40 column 20.
+Player 1 answers that a ship is hit.
+Round 256
+Player 1 guesses/fires at row 39 column 5.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 40 column 21.
+Player 1 answers that guess/shot missed.
+Round 257
+Player 1 guesses/fires at row 7 column 44.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 40 column 19.
+Player 1 answers that guess/shot missed.
+Round 258
+Player 1 guesses/fires at row 25 column 20.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 41 column 20.
+Player 1 answers that the Frigate is hit and sunk.
+Round 259
+Player 1 guesses/fires at row 47 column 38.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 41 column 21.
+Player 1 answers that guess/shot missed.
+Round 260
+Player 1 guesses/fires at row 2 column 7.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 42 column 20.
+Player 1 answers that guess/shot missed.
+Round 261
+Player 1 guesses/fires at row 5 column 3.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 37 column 20.
+Player 1 answers that guess/shot missed.
+Round 262
+Player 1 guesses/fires at row 16 column 13.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 7 column 41.
+Player 1 answers that guess/shot missed.
+Round 263
+Player 1 guesses/fires at row 17 column 42.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 7 column 15.
+Player 1 answers that guess/shot missed.
+Round 264
+Player 1 guesses/fires at row 40 column 46.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 39 column 23.
+Player 1 answers that guess/shot missed.
+Round 265
+Player 1 guesses/fires at row 6 column 33.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 0 column 0.
+Player 1 answers that guess/shot missed.
+Round 266
+Player 1 guesses/fires at row 42 column 4.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 26 column 4.
+Player 1 answers that guess/shot missed.
+Round 267
+Player 1 guesses/fires at row 41 column 13.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 34 column 4.
+Player 1 answers that guess/shot missed.
+Round 268
+Player 1 guesses/fires at row 21 column 25.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 0 column 14.
+Player 1 answers that guess/shot missed.
+Round 269
+Player 1 guesses/fires at row 24 column 10.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 12 column 18.
+Player 1 answers that guess/shot missed.
+Round 270
+Player 1 guesses/fires at row 19 column 26.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 17 column 5.
+Player 1 answers that guess/shot missed.
+Round 271
+Player 1 guesses/fires at row 29 column 12.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 41 column 13.
+Player 1 answers that guess/shot missed.
+Round 272
+Player 1 guesses/fires at row 33 column 4.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 31 column 49.
+Player 1 answers that guess/shot missed.
+Round 273
+Player 1 guesses/fires at row 20 column 30.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 4 column 8.
+Player 1 answers that guess/shot missed.
+Round 274
+Player 1 guesses/fires at row 33 column 36.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 13 column 27.
+Player 1 answers that guess/shot missed.
+Round 275
+Player 1 guesses/fires at row 9 column 36.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 45 column 7.
+Player 1 answers that guess/shot missed.
+Round 276
+Player 1 guesses/fires at row 34 column 47.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 41 column 27.
+Player 1 answers that guess/shot missed.
+Round 277
+Player 1 guesses/fires at row 19 column 47.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 6 column 2.
+Player 1 answers that guess/shot missed.
+Round 278
+Player 1 guesses/fires at row 31 column 44.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 21 column 31.
+Player 1 answers that guess/shot missed.
+Round 279
+Player 1 guesses/fires at row 14 column 37.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 11 column 39.
+Player 1 answers that guess/shot missed.
+Round 280
+Player 1 guesses/fires at row 23 column 34.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 25 column 27.
+Player 1 answers that guess/shot missed.
+Round 281
+Player 1 guesses/fires at row 32 column 17.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 16 column 44.
+Player 1 answers that guess/shot missed.
+Round 282
+Player 1 guesses/fires at row 32 column 21.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 15 column 19.
+Player 1 answers that guess/shot missed.
+Round 283
+Player 1 guesses/fires at row 20 column 35.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 44 column 2.
+Player 1 answers that guess/shot missed.
+Round 284
+Player 1 guesses/fires at row 13 column 42.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 32 column 30.
+Player 1 answers that guess/shot missed.
+Round 285
+Player 1 guesses/fires at row 28 column 47.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 0 column 36.
+Player 1 answers that guess/shot missed.
+Round 286
+Player 1 guesses/fires at row 17 column 3.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 35 column 33.
+Player 1 answers that guess/shot missed.
+Round 287
+Player 1 guesses/fires at row 46 column 19.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 25 column 35.
+Player 1 answers that guess/shot missed.
+Round 288
+Player 1 guesses/fires at row 2 column 31.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 18 column 2.
+Player 1 answers that guess/shot missed.
+Round 289
+Player 1 guesses/fires at row 45 column 33.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 46 column 36.
+Player 1 answers that guess/shot missed.
+Round 290
+Player 1 guesses/fires at row 14 column 45.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 6 column 28.
+Player 1 answers that guess/shot missed.
+Round 291
+Player 1 guesses/fires at row 15 column 27.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 43 column 47.
+Player 1 answers that guess/shot missed.
+Round 292
+Player 1 guesses/fires at row 34 column 30.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 5 column 39.
+Player 1 answers that guess/shot missed.
+Round 293
+Player 1 guesses/fires at row 41 column 17.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 39 column 41.
+Player 1 answers that guess/shot missed.
+Round 294
+Player 1 guesses/fires at row 38 column 7.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 20 column 4.
+Player 1 answers that guess/shot missed.
+Round 295
+Player 1 guesses/fires at row 19 column 12.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 14 column 8.
+Player 1 answers that a ship is hit.
+Round 296
+Player 1 guesses/fires at row 9 column 16.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 14 column 9.
+Player 1 answers that a ship is hit.
+Round 297
+Player 1 guesses/fires at row 26 column 39.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 14 column 10.
+Player 1 answers that guess/shot missed.
+Round 298
+Player 1 guesses/fires at row 37 column 4.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 15 column 9.
+Player 1 answers that a ship is hit.
+Round 299
+Player 1 guesses/fires at row 4 column 43.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 15 column 10.
+Player 1 answers that guess/shot missed.
+Round 300
+Player 1 guesses/fires at row 2 column 16.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 16 column 9.
+Player 1 answers that guess/shot missed.
+Round 301
+Player 1 guesses/fires at row 37 column 33.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 13 column 9.
+Player 1 answers that guess/shot missed.
+Round 302
+Player 1 guesses/fires at row 18 column 6.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 14 column 7.
+Player 1 answers that a ship is hit.
+Round 303
+Player 1 guesses/fires at row 25 column 32.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 14 column 6.
+Player 1 answers that guess/shot missed.
+Round 304
+Player 1 guesses/fires at row 8 column 10.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 15 column 7.
+Player 1 answers that a ship is hit.
+Round 305
+Player 1 guesses/fires at row 13 column 35.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 15 column 6.
+Player 1 answers that guess/shot missed.
+Round 306
+Player 1 guesses/fires at row 42 column 23.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 16 column 7.
+Player 1 answers that guess/shot missed.
+Round 307
+Player 1 guesses/fires at row 44 column 29.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 15 column 8.
+Player 1 answers that the AircraftCarrier is hit and sunk.
+Round 308
+Player 1 guesses/fires at row 23 column 4.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 16 column 8.
+Player 1 answers that guess/shot missed.
+Round 309
+Player 1 guesses/fires at row 32 column 11.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 13 column 8.
+Player 1 answers that guess/shot missed.
+Round 310
+Player 1 guesses/fires at row 18 column 24.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 19 column 15.
+Player 1 answers that guess/shot missed.
+Round 311
+Player 1 guesses/fires at row 4 column 6.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 16 column 6.
+Player 1 answers that guess/shot missed.
+Round 312
+Player 1 guesses/fires at row 18 column 15.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 14 column 46.
+Player 1 answers that guess/shot missed.
+Round 313
+Player 1 guesses/fires at row 46 column 36.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 18 column 34.
+Player 1 answers that guess/shot missed.
+Round 314
+Player 1 guesses/fires at row 38 column 23.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 46 column 24.
+Player 1 answers that guess/shot missed.
+Round 315
+Player 1 guesses/fires at row 9 column 33.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 25 column 43.
+Player 1 answers that guess/shot missed.
+Round 316
+Player 1 guesses/fires at row 24 column 38.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 27 column 37.
+Player 1 answers that guess/shot missed.
+Round 317
+Player 1 guesses/fires at row 28 column 24.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 20 column 22.
+Player 1 answers that guess/shot missed.
+Round 318
+Player 1 guesses/fires at row 27 column 30.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 34 column 14.
+Player 1 answers that guess/shot missed.
+Round 319
+Player 1 guesses/fires at row 38 column 47.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 42 column 28.
+Player 1 answers that guess/shot missed.
+Round 320
+Player 1 guesses/fires at row 2 column 45.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 9 column 9.
+Player 1 answers that guess/shot missed.
+Round 321
+Player 1 guesses/fires at row 14 column 14.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 23 column 15.
+Player 1 answers that guess/shot missed.
+Round 322
+Player 1 guesses/fires at row 48 column 32.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 11 column 11.
+Player 1 answers that guess/shot missed.
+Round 323
+Player 1 guesses/fires at row 35 column 40.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 6 column 18.
+Player 1 answers that guess/shot missed.
+Round 324
+Player 1 guesses/fires at row 3 column 33.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 22 column 28.
+Player 1 answers that guess/shot missed.
+Round 325
+Player 1 guesses/fires at row 45 column 1.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 5 column 25.
+Player 1 answers that guess/shot missed.
+Round 326
+Player 1 guesses/fires at row 32 column 47.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 12 column 22.
+Player 1 answers that guess/shot missed.
+Round 327
+Player 1 guesses/fires at row 19 column 1.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 23 column 49.
+Player 1 answers that guess/shot missed.
+Round 328
+Player 1 guesses/fires at row 48 column 44.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 43 column 43.
+Player 1 answers that guess/shot missed.
+Round 329
+Player 1 guesses/fires at row 11 column 8.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 48 column 46.
+Player 1 answers that guess/shot missed.
+Round 330
+Player 1 guesses/fires at row 14 column 25.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 47 column 3.
+Player 1 answers that guess/shot missed.
+Round 331
+Player 1 guesses/fires at row 48 column 27.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 22 column 10.
+Player 1 answers that guess/shot missed.
+Round 332
+Player 1 guesses/fires at row 44 column 48.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 5 column 49.
+Player 1 answers that guess/shot missed.
+Round 333
+Player 1 guesses/fires at row 1 column 22.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 20 column 26.
+Player 1 answers that guess/shot missed.
+Round 334
+Player 1 guesses/fires at row 12 column 44.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 19 column 19.
+Player 1 answers that guess/shot missed.
+Round 335
+Player 1 guesses/fires at row 42 column 33.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 46 column 38.
+Player 1 answers that guess/shot missed.
+Round 336
+Player 1 guesses/fires at row 32 column 38.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 41 column 45.
+Player 1 answers that guess/shot missed.
+Round 337
+Player 1 guesses/fires at row 47 column 48.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 37 column 5.
+Player 1 answers that guess/shot missed.
+Round 338
+Player 1 guesses/fires at row 30 column 17.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 26 column 10.
+Player 1 answers that guess/shot missed.
+Round 339
+Player 1 guesses/fires at row 34 column 13.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 27 column 3.
+Player 1 answers that guess/shot missed.
+Round 340
+Player 1 guesses/fires at row 1 column 5.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 12 column 24.
+Player 1 answers that guess/shot missed.
+Round 341
+Player 1 guesses/fires at row 22 column 21.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 1 column 3.
+Player 1 answers that guess/shot missed.
+Round 342
+Player 1 guesses/fires at row 48 column 11.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 45 column 39.
+Player 1 answers that guess/shot missed.
+Round 343
+Player 1 guesses/fires at row 18 column 39.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 13 column 3.
+Player 1 answers that guess/shot missed.
+Round 344
+Player 1 guesses/fires at row 47 column 4.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 7 column 23.
+Player 1 answers that guess/shot missed.
+Round 345
+Player 1 guesses/fires at row 8 column 48.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 13 column 21.
+Player 1 answers that guess/shot missed.
+Round 346
+Player 1 guesses/fires at row 11 column 1.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 2 column 34.
+Player 1 answers that guess/shot missed.
+Round 347
+Player 1 guesses/fires at row 34 column 1.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 30 column 18.
+Player 1 answers that guess/shot missed.
+Round 348
+Player 1 guesses/fires at row 22 column 1.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 0 column 42.
+Player 1 answers that guess/shot missed.
+Round 349
+Player 1 guesses/fires at row 16 column 1.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 5 column 47.
+Player 1 answers that guess/shot missed.
+Round 350
+Player 1 guesses/fires at row 41 column 1.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 3 column 31.
+Player 1 answers that guess/shot missed.
+Round 351
+Player 1 guesses/fires at row 41 column 48.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 19 column 13.
+Player 1 answers that guess/shot missed.
+Round 352
+Player 1 guesses/fires at row 25 column 16.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 49 column 43.
+Player 1 answers that guess/shot missed.
+Round 353
+Player 1 guesses/fires at row 40 column 11.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 42 column 6.
+Player 1 answers that guess/shot missed.
+Round 354
+Player 1 guesses/fires at row 28 column 2.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 0 column 20.
+Player 1 answers that guess/shot missed.
+Round 355
+Player 1 guesses/fires at row 11 column 32.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 17 column 15.
+Player 1 answers that guess/shot missed.
+Round 356
+Player 1 guesses/fires at row 24 column 25.
+Player 2 answers that a ship is hit.
+Player 2 guesses/fires at row 37 column 45.
+Player 1 answers that guess/shot missed.
+Round 357
+Player 1 guesses/fires at row 24 column 26.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 15 column 5.
+Player 1 answers that guess/shot missed.
+Round 358
+Player 1 guesses/fires at row 24 column 24.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 9 column 7.
+Player 1 answers that guess/shot missed.
+Round 359
+Player 1 guesses/fires at row 23 column 25.
+Player 2 answers that a ship is hit.
+Player 2 guesses/fires at row 11 column 23.
+Player 1 answers that guess/shot missed.
+Round 360
+Player 1 guesses/fires at row 22 column 25.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 29 column 19.
+Player 1 answers that guess/shot missed.
+Round 361
+Player 1 guesses/fires at row 25 column 25.
+Player 2 answers that the Submarine is hit and sunk.
+Player 2 guesses/fires at row 2 column 2.
+Player 1 answers that guess/shot missed.
+Round 362
+Player 1 guesses/fires at row 1 column 10.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 42 column 2.
+Player 1 answers that guess/shot missed.
+Round 363
+Player 1 guesses/fires at row 12 column 21.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 35 column 17.
+Player 1 answers that guess/shot missed.
+Round 364
+Player 1 guesses/fires at row 4 column 28.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 23 column 35.
+Player 1 answers that guess/shot missed.
+Round 365
+Player 1 guesses/fires at row 10 column 48.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 40 column 34.
+Player 1 answers that guess/shot missed.
+Round 366
+Player 1 guesses/fires at row 6 column 26.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 19 column 29.
+Player 1 answers that guess/shot missed.
+Round 367
+Player 1 guesses/fires at row 1 column 35.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 35 column 7.
+Player 1 answers that guess/shot missed.
+Round 368
+Player 1 guesses/fires at row 45 column 41.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 17 column 45.
+Player 1 answers that guess/shot missed.
+Round 369
+Player 1 guesses/fires at row 45 column 3.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 1 column 41.
+Player 1 answers that guess/shot missed.
+Round 370
+Player 1 guesses/fires at row 15 column 35.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 29 column 1.
+Player 1 answers that guess/shot missed.
+Round 371
+Player 1 guesses/fires at row 26 column 10.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 44 column 42.
+Player 1 answers that guess/shot missed.
+Round 372
+Player 1 guesses/fires at row 32 column 26.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 0 column 48.
+Player 1 answers that guess/shot missed.
+Round 373
+Player 1 guesses/fires at row 48 column 46.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 42 column 26.
+Player 1 answers that guess/shot missed.
+Round 374
+Player 1 guesses/fires at row 44 column 9.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 0 column 10.
+Player 1 answers that guess/shot missed.
+Round 375
+Player 1 guesses/fires at row 36 column 1.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 4 column 24.
+Player 1 answers that guess/shot missed.
+Round 376
+Player 1 guesses/fires at row 37 column 19.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 36 column 48.
+Player 1 answers that guess/shot missed.
+Round 377
+Player 1 guesses/fires at row 6 column 30.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 12 column 4.
+Player 1 answers that guess/shot missed.
+Round 378
+Player 1 guesses/fires at row 20 column 28.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 2 column 44.
+Player 1 answers that guess/shot missed.
+Round 379
+Player 1 guesses/fires at row 39 column 40.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 34 column 42.
+Player 1 answers that guess/shot missed.
+Round 380
+Player 1 guesses/fires at row 34 column 21.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 15 column 17.
+Player 1 answers that guess/shot missed.
+Round 381
+Player 1 guesses/fires at row 9 column 1.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 10 column 24.
+Player 1 answers that guess/shot missed.
+Round 382
+Player 1 guesses/fires at row 1 column 40.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 9 column 49.
+Player 1 answers that guess/shot missed.
+Round 383
+Player 1 guesses/fires at row 32 column 2.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 11 column 27.
+Player 1 answers that guess/shot missed.
+Round 384
+Player 1 guesses/fires at row 44 column 20.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 33 column 45.
+Player 1 answers that guess/shot missed.
+Round 385
+Player 1 guesses/fires at row 13 column 4.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 3 column 9.
+Player 1 answers that guess/shot missed.
+Round 386
+Player 1 guesses/fires at row 48 column 13.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 47 column 5.
+Player 1 answers that guess/shot missed.
+Round 387
+Player 1 guesses/fires at row 43 column 44.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 19 column 41.
+Player 1 answers that guess/shot missed.
+Round 388
+Player 1 guesses/fires at row 36 column 48.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 30 column 34.
+Player 1 answers that guess/shot missed.
+Round 389
+Player 1 guesses/fires at row 8 column 20.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 42 column 22.
+Player 1 answers that guess/shot missed.
+Round 390
+Player 1 guesses/fires at row 40 column 31.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 3 column 43.
+Player 1 answers that guess/shot missed.
+Round 391
+Player 1 guesses/fires at row 8 column 29.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 33 column 27.
+Player 1 answers that guess/shot missed.
+Round 392
+Player 1 guesses/fires at row 44 column 16.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 30 column 8.
+Player 1 answers that guess/shot missed.
+Round 393
+Player 1 guesses/fires at row 4 column 41.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 49 column 3.
+Player 1 answers that guess/shot missed.
+Round 394
+Player 1 guesses/fires at row 31 column 33.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 49 column 13.
+Player 1 answers that guess/shot missed.
+Round 395
+Player 1 guesses/fires at row 14 column 48.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 39 column 17.
+Player 1 answers that guess/shot missed.
+Round 396
+Player 1 guesses/fires at row 1 column 33.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 28 column 34.
+Player 1 answers that guess/shot missed.
+Round 397
+Player 1 guesses/fires at row 26 column 1.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 46 column 6.
+Player 1 answers that guess/shot missed.
+Round 398
+Player 1 guesses/fires at row 26 column 47.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 25 column 37.
+Player 1 answers that guess/shot missed.
+Round 399
+Player 1 guesses/fires at row 11 column 39.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 25 column 13.
+Player 1 answers that guess/shot missed.
+Round 400
+Player 1 guesses/fires at row 5 column 35.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 30 column 16.
+Player 1 answers that guess/shot missed.
+Round 401
+Player 1 guesses/fires at row 36 column 6.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 25 column 49.
+Player 1 answers that guess/shot missed.
+Round 402
+Player 1 guesses/fires at row 45 column 7.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 38 column 48.
+Player 1 answers that guess/shot missed.
+Round 403
+Player 1 guesses/fires at row 1 column 48.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 3 column 19.
+Player 1 answers that guess/shot missed.
+Round 404
+Player 1 guesses/fires at row 32 column 15.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 20 column 38.
+Player 1 answers that guess/shot missed.
+Round 405
+Player 1 guesses/fires at row 36 column 38.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 26 column 48.
+Player 1 answers that guess/shot missed.
+Round 406
+Player 1 guesses/fires at row 16 column 29.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 46 column 48.
+Player 1 answers that guess/shot missed.
+Round 407
+Player 1 guesses/fires at row 44 column 37.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 47 column 31.
+Player 1 answers that guess/shot missed.
+Round 408
+Player 1 guesses/fires at row 48 column 23.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 21 column 29.
+Player 1 answers that guess/shot missed.
+Round 409
+Player 1 guesses/fires at row 36 column 10.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 20 column 14.
+Player 1 answers that guess/shot missed.
+Round 410
+Player 1 guesses/fires at row 18 column 30.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 11 column 45.
+Player 1 answers that guess/shot missed.
+Round 411
+Player 1 guesses/fires at row 48 column 36.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 8 column 18.
+Player 1 answers that guess/shot missed.
+Round 412
+Player 1 guesses/fires at row 27 column 32.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 27 column 5.
+Player 1 answers that guess/shot missed.
+Round 413
+Player 1 guesses/fires at row 16 column 21.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 33 column 31.
+Player 1 answers that guess/shot missed.
+Round 414
+Player 1 guesses/fires at row 48 column 25.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 12 column 46.
+Player 1 answers that guess/shot missed.
+Round 415
+Player 1 guesses/fires at row 1 column 19.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 14 column 30.
+Player 1 answers that guess/shot missed.
+Round 416
+Player 1 guesses/fires at row 36 column 15.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 46 column 14.
+Player 1 answers that guess/shot missed.
+Round 417
+Player 1 guesses/fires at row 28 column 34.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 34 column 36.
+Player 1 answers that guess/shot missed.
+Round 418
+Player 1 guesses/fires at row 21 column 8.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 36 column 38.
+Player 1 answers that guess/shot missed.
+Round 419
+Player 1 guesses/fires at row 26 column 27.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 11 column 21.
+Player 1 answers that guess/shot missed.
+Round 420
+Player 1 guesses/fires at row 5 column 1.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 33 column 19.
+Player 1 answers that guess/shot missed.
+Round 421
+Player 1 guesses/fires at row 7 column 37.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 29 column 41.
+Player 1 answers that guess/shot missed.
+Round 422
+Player 1 guesses/fires at row 44 column 27.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 48 column 30.
+Player 1 answers that guess/shot missed.
+Round 423
+Player 1 guesses/fires at row 6 column 10.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 43 column 37.
+Player 1 answers that guess/shot missed.
+Round 424
+Player 1 guesses/fires at row 22 column 38.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 15 column 25.
+Player 1 answers that guess/shot missed.
+Round 425
+Player 1 guesses/fires at row 30 column 24.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 29 column 27.
+Player 1 answers that guess/shot missed.
+Round 426
+Player 1 guesses/fires at row 48 column 19.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 16 column 22.
+Player 1 answers that guess/shot missed.
+Round 427
+Player 1 guesses/fires at row 28 column 26.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 44 column 16.
+Player 1 answers that guess/shot missed.
+Round 428
+Player 1 guesses/fires at row 31 column 7.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 12 column 44.
+Player 1 answers that guess/shot missed.
+Round 429
+Player 1 guesses/fires at row 26 column 18.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 24 column 46.
+Player 1 answers that guess/shot missed.
+Round 430
+Player 1 guesses/fires at row 38 column 42.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 42 column 46.
+Player 1 answers that guess/shot missed.
+Round 431
+Player 1 guesses/fires at row 48 column 15.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 15 column 29.
+Player 1 answers that guess/shot missed.
+Round 432
+Player 1 guesses/fires at row 30 column 48.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 3 column 47.
+Player 1 answers that guess/shot missed.
+Round 433
+Player 1 guesses/fires at row 14 column 12.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 18 column 18.
+Player 1 answers that guess/shot missed.
+Round 434
+Player 1 guesses/fires at row 34 column 17.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 49 column 9.
+Player 1 answers that guess/shot missed.
+Round 435
+Player 1 guesses/fires at row 21 column 48.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 9 column 17.
+Player 1 answers that guess/shot missed.
+Round 436
+Player 1 guesses/fires at row 48 column 9.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 19 column 1.
+Player 1 answers that guess/shot missed.
+Round 437
+Player 1 guesses/fires at row 33 column 40.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 16 column 32.
+Player 1 answers that guess/shot missed.
+Round 438
+Player 1 guesses/fires at row 20 column 20.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 38 column 44.
+Player 1 answers that guess/shot missed.
+Round 439
+Player 1 guesses/fires at row 27 column 12.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 32 column 36.
+Player 1 answers that guess/shot missed.
+Round 440
+Player 1 guesses/fires at row 16 column 33.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 40 column 18.
+Player 1 answers that guess/shot missed.
+Round 441
+Player 1 guesses/fires at row 7 column 4.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 4 column 32.
+Player 1 answers that guess/shot missed.
+Round 442
+Player 1 guesses/fires at row 10 column 10.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 26 column 36.
+Player 1 answers that guess/shot missed.
+Round 443
+Player 1 guesses/fires at row 10 column 25.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 23 column 45.
+Player 1 answers that guess/shot missed.
+Round 444
+Player 1 guesses/fires at row 22 column 11.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 30 column 32.
+Player 1 answers that guess/shot missed.
+Round 445
+Player 1 guesses/fires at row 24 column 36.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 26 column 24.
+Player 1 answers that guess/shot missed.
+Round 446
+Player 1 guesses/fires at row 2 column 24.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 25 column 9.
+Player 1 answers that guess/shot missed.
+Round 447
+Player 1 guesses/fires at row 19 column 16.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 48 column 0.
+Player 1 answers that guess/shot missed.
+Round 448
+Player 1 guesses/fires at row 6 column 19.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 14 column 38.
+Player 1 answers that guess/shot missed.
+Round 449
+Player 1 guesses/fires at row 30 column 19.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 27 column 1.
+Player 1 answers that guess/shot missed.
+Round 450
+Player 1 guesses/fires at row 26 column 43.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 25 column 23.
+Player 1 answers that guess/shot missed.
+Round 451
+Player 1 guesses/fires at row 46 column 13.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 37 column 37.
+Player 1 answers that guess/shot missed.
+Round 452
+Player 1 guesses/fires at row 38 column 13.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 32 column 40.
+Player 1 answers that guess/shot missed.
+Round 453
+Player 1 guesses/fires at row 24 column 20.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 42 column 8.
+Player 1 answers that guess/shot missed.
+Round 454
+Player 1 guesses/fires at row 38 column 46.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 43 column 49.
+Player 1 answers that guess/shot missed.
+Round 455
+Player 1 guesses/fires at row 29 column 13.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 47 column 45.
+Player 1 answers that guess/shot missed.
+Round 456
+Player 1 guesses/fires at row 42 column 39.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 38 column 22.
+Player 1 answers that guess/shot missed.
+Round 457
+Player 1 guesses/fires at row 2 column 11.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 25 column 19.
+Player 1 answers that guess/shot missed.
+Round 458
+Player 1 guesses/fires at row 8 column 13.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 48 column 36.
+Player 1 answers that guess/shot missed.
+Round 459
+Player 1 guesses/fires at row 13 column 41.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 7 column 17.
+Player 1 answers that guess/shot missed.
+Round 460
+Player 1 guesses/fires at row 1 column 2.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 37 column 29.
+Player 1 answers that guess/shot missed.
+Round 461
+Player 1 guesses/fires at row 36 column 13.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 38 column 4.
+Player 1 answers that guess/shot missed.
+Round 462
+Player 1 guesses/fires at row 34 column 31.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 36 column 20.
+Player 1 answers that guess/shot missed.
+Round 463
+Player 1 guesses/fires at row 36 column 26.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 6 column 12.
+Player 1 answers that guess/shot missed.
+Round 464
+Player 1 guesses/fires at row 5 column 6.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 12 column 0.
+Player 1 answers that guess/shot missed.
+Round 465
+Player 1 guesses/fires at row 7 column 22.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 15 column 27.
+Player 1 answers that guess/shot missed.
+Round 466
+Player 1 guesses/fires at row 39 column 1.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 0 column 32.
+Player 1 answers that guess/shot missed.
+Round 467
+Player 1 guesses/fires at row 19 column 3.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 3 column 5.
+Player 1 answers that guess/shot missed.
+Round 468
+Player 1 guesses/fires at row 42 column 11.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 47 column 25.
+Player 1 answers that guess/shot missed.
+Round 469
+Player 1 guesses/fires at row 7 column 39.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 39 column 47.
+Player 1 answers that guess/shot missed.
+Round 470
+Player 1 guesses/fires at row 18 column 38.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 14 column 0.
+Player 1 answers that guess/shot missed.
+Round 471
+Player 1 guesses/fires at row 21 column 1.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 24 column 38.
+Player 1 answers that guess/shot missed.
+Round 472
+Player 1 guesses/fires at row 4 column 33.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 31 column 17.
+Player 1 answers that guess/shot missed.
+Round 473
+Player 1 guesses/fires at row 44 column 46.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 29 column 13.
+Player 1 answers that guess/shot missed.
+Round 474
+Player 1 guesses/fires at row 11 column 42.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 39 column 25.
+Player 1 answers that guess/shot missed.
+Round 475
+Player 1 guesses/fires at row 25 column 31.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 24 column 32.
+Player 1 answers that guess/shot missed.
+Round 476
+Player 1 guesses/fires at row 33 column 23.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 12 column 30.
+Player 1 answers that guess/shot missed.
+Round 477
+Player 1 guesses/fires at row 15 column 19.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 21 column 5.
+Player 1 answers that guess/shot missed.
+Round 478
+Player 1 guesses/fires at row 4 column 21.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 17 column 9.
+Player 1 answers that guess/shot missed.
+Round 479
+Player 1 guesses/fires at row 26 column 24.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 16 column 2.
+Player 1 answers that guess/shot missed.
+Round 480
+Player 1 guesses/fires at row 15 column 1.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 33 column 25.
+Player 1 answers that guess/shot missed.
+Round 481
+Player 1 guesses/fires at row 26 column 20.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 38 column 2.
+Player 1 answers that guess/shot missed.
+Round 482
+Player 1 guesses/fires at row 38 column 29.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 38 column 10.
+Player 1 answers that guess/shot missed.
+Round 483
+Player 1 guesses/fires at row 40 column 48.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 7 column 29.
+Player 1 answers that guess/shot missed.
+Round 484
+Player 1 guesses/fires at row 35 column 42.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 30 column 20.
+Player 1 answers that guess/shot missed.
+Round 485
+Player 1 guesses/fires at row 38 column 27.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 5 column 21.
+Player 1 answers that guess/shot missed.
+Round 486
+Player 1 guesses/fires at row 9 column 38.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 18 column 30.
+Player 1 answers that guess/shot missed.
+Round 487
+Player 1 guesses/fires at row 32 column 28.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 17 column 19.
+Player 1 answers that guess/shot missed.
+Round 488
+Player 1 guesses/fires at row 22 column 46.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 26 column 26.
+Player 1 answers that guess/shot missed.
+Round 489
+Player 1 guesses/fires at row 48 column 31.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 31 column 25.
+Player 1 answers that guess/shot missed.
+Round 490
+Player 1 guesses/fires at row 46 column 21.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 49 column 7.
+Player 1 answers that guess/shot missed.
+Round 491
+Player 1 guesses/fires at row 45 column 48.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 41 column 1.
+Player 1 answers that guess/shot missed.
+Round 492
+Player 1 guesses/fires at row 33 column 43.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 34 column 40.
+Player 1 answers that guess/shot missed.
+Round 493
+Player 1 guesses/fires at row 28 column 22.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 28 column 28.
+Player 1 answers that guess/shot missed.
+Round 494
+Player 1 guesses/fires at row 12 column 6.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 29 column 45.
+Player 1 answers that guess/shot missed.
+Round 495
+Player 1 guesses/fires at row 11 column 23.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 25 column 39.
+Player 1 answers that guess/shot missed.
+Round 496
+Player 1 guesses/fires at row 11 column 12.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 3 column 11.
+Player 1 answers that guess/shot missed.
+Round 497
+Player 1 guesses/fires at row 4 column 8.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 22 column 2.
+Player 1 answers that guess/shot missed.
+Round 498
+Player 1 guesses/fires at row 20 column 40.
+Player 2 answers that a ship is hit.
+Player 2 guesses/fires at row 22 column 8.
+Player 1 answers that guess/shot missed.
+Round 499
+Player 1 guesses/fires at row 20 column 39.
+Player 2 answers that a ship is hit.
+Player 2 guesses/fires at row 6 column 44.
+Player 1 answers that guess/shot missed.
+Round 500
+Player 1 guesses/fires at row 21 column 40.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 22 column 20.
+Player 1 answers that guess/shot missed.
+Round 501
+Player 1 guesses/fires at row 19 column 40.
+Player 2 answers that a ship is hit.
+Player 2 guesses/fires at row 17 column 33.
+Player 1 answers that guess/shot missed.
+Round 502
+Player 1 guesses/fires at row 18 column 40.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 41 column 23.
+Player 1 answers that guess/shot missed.
+Round 503
+Player 1 guesses/fires at row 20 column 41.
+Player 2 answers that guess/shot missed.
+Player 2 guesses/fires at row 21 column 37.
+Player 1 answers that guess/shot missed.
+Round 504
+Player 1 guesses/fires at row 19 column 39.
+Player 2 answers that the Cruiser is hit and sunk.
+Player 2 guesses/fires at row 30 column 24.
+Player 1 answers that guess/shot missed.
+Round 505
+Player 2 guesses/fires at row 46 column 28.
+Player 1 answers that guess/shot missed.
+Round 506
+Player 2 guesses/fires at row 40 column 26.
+Player 1 answers that guess/shot missed.
+Round 507
+Player 2 guesses/fires at row 49 column 5.
+Player 1 answers that guess/shot missed.
+Round 508
+Player 2 guesses/fires at row 21 column 11.
+Player 1 answers that guess/shot missed.
+Round 509
+Player 2 guesses/fires at row 2 column 16.
+Player 1 answers that guess/shot missed.
+Round 510
+Player 2 guesses/fires at row 23 column 29.
+Player 1 answers that guess/shot missed.
+Round 511
+Player 2 guesses/fires at row 43 column 17.
+Player 1 answers that guess/shot missed.
+Round 512
+Player 2 guesses/fires at row 0 column 44.
+Player 1 answers that guess/shot missed.
+Round 513
+Player 2 guesses/fires at row 31 column 43.
+Player 1 answers that guess/shot missed.
+Round 514
+Player 2 guesses/fires at row 12 column 28.
+Player 1 answers that guess/shot missed.
+Round 515
+Player 2 guesses/fires at row 13 column 1.
+Player 1 answers that guess/shot missed.
+Round 516
+Player 2 guesses/fires at row 3 column 33.
+Player 1 answers that guess/shot missed.
+Round 517
+Player 2 guesses/fires at row 39 column 45.
+Player 1 answers that guess/shot missed.
+Round 518
+Player 2 guesses/fires at row 1 column 11.
+Player 1 answers that guess/shot missed.
+Round 519
+Player 2 guesses/fires at row 2 column 8.
+Player 1 answers that guess/shot missed.
+Round 520
+Player 2 guesses/fires at row 41 column 9.
+Player 1 answers that guess/shot missed.
+Round 521
+Player 2 guesses/fires at row 36 column 34.
+Player 1 answers that guess/shot missed.
+Round 522
+Player 2 guesses/fires at row 49 column 27.
+Player 1 answers that guess/shot missed.
+Round 523
+Player 2 guesses/fires at row 37 column 39.
+Player 1 answers that guess/shot missed.
+Round 524
+Player 2 guesses/fires at row 37 column 43.
+Player 1 answers that guess/shot missed.
+Round 525
+Player 2 guesses/fires at row 12 column 36.
+Player 1 answers that guess/shot missed.
+Round 526
+Player 2 guesses/fires at row 14 column 16.
+Player 1 answers that guess/shot missed.
+Round 527
+Player 2 guesses/fires at row 38 column 6.
+Player 1 answers that guess/shot missed.
+Round 528
+Player 2 guesses/fires at row 43 column 31.
+Player 1 answers that guess/shot missed.
+Round 529
+Player 2 guesses/fires at row 44 column 32.
+Player 1 answers that guess/shot missed.
+Round 530
+Player 2 guesses/fires at row 35 column 35.
+Player 1 answers that guess/shot missed.
+Round 531
+Player 2 guesses/fires at row 1 column 29.
+Player 1 answers that guess/shot missed.
+Round 532
+Player 2 guesses/fires at row 15 column 21.
+Player 1 answers that guess/shot missed.
+Round 533
+Player 2 guesses/fires at row 38 column 38.
+Player 1 answers that guess/shot missed.
+Round 534
+Player 2 guesses/fires at row 18 column 28.
+Player 1 answers that guess/shot missed.
+Round 535
+Player 2 guesses/fires at row 23 column 41.
+Player 1 answers that guess/shot missed.
+Round 536
+Player 2 guesses/fires at row 31 column 39.
+Player 1 answers that guess/shot missed.
+Round 537
+Player 2 guesses/fires at row 24 column 6.
+Player 1 answers that guess/shot missed.
+Round 538
+Player 2 guesses/fires at row 45 column 25.
+Player 1 answers that guess/shot missed.
+Round 539
+Player 2 guesses/fires at row 16 column 14.
+Player 1 answers that guess/shot missed.
+Round 540
+Player 2 guesses/fires at row 12 column 10.
+Player 1 answers that guess/shot missed.
+Round 541
+Player 2 guesses/fires at row 10 column 36.
+Player 1 answers that guess/shot missed.
+Round 542
+Player 2 guesses/fires at row 20 column 48.
+Player 1 answers that guess/shot missed.
+Round 543
+Player 2 guesses/fires at row 25 column 31.
+Player 1 answers that guess/shot missed.
+Round 544
+Player 2 guesses/fires at row 8 column 2.
+Player 1 answers that guess/shot missed.
+Round 545
+Player 2 guesses/fires at row 24 column 8.
+Player 1 answers that guess/shot missed.
+Round 546
+Player 2 guesses/fires at row 20 column 40.
+Player 1 answers that a ship is hit.
+Round 547
+Player 2 guesses/fires at row 20 column 41.
+Player 1 answers that guess/shot missed.
+Round 548
+Player 2 guesses/fires at row 20 column 39.
+Player 1 answers that a ship is hit.
+Round 549
+Player 2 guesses/fires at row 19 column 39.
+Player 1 answers that a ship is hit.
+Round 550
+Player 2 guesses/fires at row 19 column 38.
+Player 1 answers that guess/shot missed.
+Round 551
+Player 2 guesses/fires at row 18 column 39.
+Player 1 answers that guess/shot missed.
+Round 552
+Player 2 guesses/fires at row 21 column 40.
+Player 1 answers that guess/shot missed.
+Round 553
+Player 2 guesses/fires at row 19 column 40.
+Player 1 answers that the Cruiser is hit and sunk.
+Round 554
+Player 2 guesses/fires at row 18 column 40.
+Player 1 answers that guess/shot missed.
+Round 555
+Player 2 guesses/fires at row 38 column 16.
+Player 1 answers that guess/shot missed.
+Round 556
+Player 2 guesses/fires at row 39 column 39.
+Player 1 answers that guess/shot missed.
+Round 557
+Player 2 guesses/fires at row 11 column 1.
+Player 1 answers that guess/shot missed.
+Round 558
+Player 2 guesses/fires at row 33 column 35.
+Player 1 answers that guess/shot missed.
+Round 559
+Player 2 guesses/fires at row 29 column 21.
+Player 1 answers that guess/shot missed.
+Round 560
+Player 2 guesses/fires at row 46 column 30.
+Player 1 answers that guess/shot missed.
+Round 561
+Player 2 guesses/fires at row 1 column 39.
+Player 1 answers that guess/shot missed.
+Round 562
+Player 2 guesses/fires at row 44 column 14.
+Player 1 answers that guess/shot missed.
+Round 563
+Player 2 guesses/fires at row 13 column 23.
+Player 1 answers that guess/shot missed.
+Round 564
+Player 2 guesses/fires at row 16 column 36.
+Player 1 answers that guess/shot missed.
+Round 565
+Player 2 guesses/fires at row 9 column 43.
+Player 1 answers that guess/shot missed.
+Round 566
+Player 2 guesses/fires at row 22 column 12.
+Player 1 answers that guess/shot missed.
+Round 567
+Player 2 guesses/fires at row 2 column 24.
+Player 1 answers that guess/shot missed.
+Round 568
+Player 2 guesses/fires at row 5 column 15.
+Player 1 answers that guess/shot missed.
+Round 569
+Player 2 guesses/fires at row 24 column 16.
+Player 1 answers that guess/shot missed.
+Round 570
+Player 2 guesses/fires at row 28 column 44.
+Player 1 answers that guess/shot missed.
+Round 571
+Player 2 guesses/fires at row 33 column 47.
+Player 1 answers that guess/shot missed.
+Round 572
+Player 2 guesses/fires at row 22 column 46.
+Player 1 answers that guess/shot missed.
+Round 573
+Player 2 guesses/fires at row 10 column 30.
+Player 1 answers that guess/shot missed.
+Round 574
+Player 2 guesses/fires at row 24 column 10.
+Player 1 answers that guess/shot missed.
+Round 575
+Player 2 guesses/fires at row 13 column 39.
+Player 1 answers that guess/shot missed.
+Round 576
+Player 2 guesses/fires at row 11 column 7.
+Player 1 answers that guess/shot missed.
+Round 577
+Player 2 guesses/fires at row 11 column 17.
+Player 1 answers that guess/shot missed.
+Round 578
+Player 2 guesses/fires at row 32 column 34.
+Player 1 answers that guess/shot missed.
+Round 579
+Player 2 guesses/fires at row 33 column 17.
+Player 1 answers that guess/shot missed.
+Round 580
+Player 2 guesses/fires at row 41 column 15.
+Player 1 answers that guess/shot missed.
+Round 581
+Player 2 guesses/fires at row 26 column 20.
+Player 1 answers that guess/shot missed.
+Round 582
+Player 2 guesses/fires at row 8 column 6.
+Player 1 answers that guess/shot missed.
+Round 583
+Player 2 guesses/fires at row 48 column 42.
+Player 1 answers that guess/shot missed.
+Round 584
+Player 2 guesses/fires at row 32 column 8.
+Player 1 answers that guess/shot missed.
+Round 585
+Player 2 guesses/fires at row 49 column 49.
+Player 1 answers that guess/shot missed.
+Round 586
+Player 2 guesses/fires at row 24 column 28.
+Player 1 answers that guess/shot missed.
+Round 587
+Player 2 guesses/fires at row 0 column 22.
+Player 1 answers that guess/shot missed.
+Round 588
+Player 2 guesses/fires at row 6 column 20.
+Player 1 answers that guess/shot missed.
+Round 589
+Player 2 guesses/fires at row 10 column 28.
+Player 1 answers that guess/shot missed.
+Round 590
+Player 2 guesses/fires at row 20 column 32.
+Player 1 answers that guess/shot missed.
+Round 591
+Player 2 guesses/fires at row 20 column 18.
+Player 1 answers that guess/shot missed.
+Round 592
+Player 2 guesses/fires at row 38 column 32.
+Player 1 answers that guess/shot missed.
+Round 593
+Player 2 guesses/fires at row 25 column 21.
+Player 1 answers that guess/shot missed.
+Round 594
+Player 2 guesses/fires at row 1 column 25.
+Player 1 answers that guess/shot missed.
+Round 595
+Player 2 guesses/fires at row 29 column 49.
+Player 1 answers that guess/shot missed.
+Round 596
+Player 2 guesses/fires at row 38 column 26.
+Player 1 answers that guess/shot missed.
+Round 597
+Player 2 guesses/fires at row 4 column 36.
+Player 1 answers that guess/shot missed.
+Round 598
+Player 2 guesses/fires at row 6 column 30.
+Player 1 answers that guess/shot missed.
+Round 599
+Player 2 guesses/fires at row 33 column 21.
+Player 1 answers that guess/shot missed.
+Round 600
+Player 2 guesses/fires at row 28 column 38.
+Player 1 answers that guess/shot missed.
+Round 601
+Player 2 guesses/fires at row 10 column 0.
+Player 1 answers that guess/shot missed.
+Round 602
+Player 2 guesses/fires at row 22 column 44.
+Player 1 answers that guess/shot missed.
+Round 603
+Player 2 guesses/fires at row 36 column 2.
+Player 1 answers that guess/shot missed.
+Round 604
+Player 2 guesses/fires at row 10 column 40.
+Player 1 answers that guess/shot missed.
+Round 605
+Player 2 guesses/fires at row 33 column 7.
+Player 1 answers that guess/shot missed.
+Round 606
+Player 2 guesses/fires at row 38 column 18.
+Player 1 answers that guess/shot missed.
+Round 607
+Player 2 guesses/fires at row 26 column 12.
+Player 1 answers that guess/shot missed.
+Round 608
+Player 2 guesses/fires at row 38 column 8.
+Player 1 answers that guess/shot missed.
+Round 609
+Player 2 guesses/fires at row 8 column 10.
+Player 1 answers that guess/shot missed.
+Round 610
+Player 2 guesses/fires at row 12 column 26.
+Player 1 answers that guess/shot missed.
+Round 611
+Player 2 guesses/fires at row 36 column 6.
+Player 1 answers that guess/shot missed.
+Round 612
+Player 2 guesses/fires at row 9 column 37.
+Player 1 answers that guess/shot missed.
+Round 613
+Player 2 guesses/fires at row 35 column 31.
+Player 1 answers that guess/shot missed.
+Round 614
+Player 2 guesses/fires at row 27 column 27.
+Player 1 answers that guess/shot missed.
+Round 615
+Player 2 guesses/fires at row 34 column 12.
+Player 1 answers that guess/shot missed.
+Round 616
+Player 2 guesses/fires at row 22 column 18.
+Player 1 answers that guess/shot missed.
+Round 617
+Player 2 guesses/fires at row 29 column 7.
+Player 1 answers that guess/shot missed.
+Round 618
+Player 2 guesses/fires at row 17 column 43.
+Player 1 answers that guess/shot missed.
+Round 619
+Player 2 guesses/fires at row 42 column 34.
+Player 1 answers that guess/shot missed.
+Round 620
+Player 2 guesses/fires at row 45 column 37.
+Player 1 answers that guess/shot missed.
+Round 621
+Player 2 guesses/fires at row 39 column 35.
+Player 1 answers that guess/shot missed.
+Round 622
+Player 2 guesses/fires at row 3 column 45.
+Player 1 answers that guess/shot missed.
+Round 623
+Player 2 guesses/fires at row 33 column 29.
+Player 1 answers that guess/shot missed.
+Round 624
+Player 2 guesses/fires at row 39 column 11.
+Player 1 answers that guess/shot missed.
+Round 625
+Player 2 guesses/fires at row 14 column 48.
+Player 1 answers that guess/shot missed.
+Round 626
+Player 2 guesses/fires at row 27 column 29.
+Player 1 answers that guess/shot missed.
+Round 627
+Player 2 guesses/fires at row 48 column 48.
+Player 1 answers that guess/shot missed.
+Round 628
+Player 2 guesses/fires at row 45 column 43.
+Player 1 answers that guess/shot missed.
+Round 629
+Player 2 guesses/fires at row 10 column 12.
+Player 1 answers that guess/shot missed.
+Round 630
+Player 2 guesses/fires at row 13 column 25.
+Player 1 answers that guess/shot missed.
+Round 631
+Player 2 guesses/fires at row 32 column 24.
+Player 1 answers that guess/shot missed.
+Round 632
+Player 2 guesses/fires at row 5 column 1.
+Player 1 answers that guess/shot missed.
+Round 633
+Player 2 guesses/fires at row 0 column 18.
+Player 1 answers that guess/shot missed.
+Round 634
+Player 2 guesses/fires at row 24 column 42.
+Player 1 answers that guess/shot missed.
+Round 635
+Player 2 guesses/fires at row 29 column 3.
+Player 1 answers that guess/shot missed.
+Round 636
+Player 2 guesses/fires at row 3 column 15.
+Player 1 answers that guess/shot missed.
+Round 637
+Player 2 guesses/fires at row 43 column 41.
+Player 1 answers that guess/shot missed.
+Round 638
+Player 2 guesses/fires at row 19 column 37.
+Player 1 answers that guess/shot missed.
+Round 639
+Player 2 guesses/fires at row 16 column 28.
+Player 1 answers that guess/shot missed.
+Round 640
+Player 2 guesses/fires at row 5 column 23.
+Player 1 answers that guess/shot missed.
+Round 641
+Player 2 guesses/fires at row 13 column 37.
+Player 1 answers that guess/shot missed.
+Round 642
+Player 2 guesses/fires at row 41 column 5.
+Player 1 answers that guess/shot missed.
+Round 643
+Player 2 guesses/fires at row 15 column 11.
+Player 1 answers that guess/shot missed.
+Round 644
+Player 2 guesses/fires at row 31 column 11.
+Player 1 answers that guess/shot missed.
+Round 645
+Player 2 guesses/fires at row 1 column 9.
+Player 1 answers that guess/shot missed.
+Round 646
+Player 2 guesses/fires at row 17 column 31.
+Player 1 answers that guess/shot missed.
+Round 647
+Player 2 guesses/fires at row 23 column 9.
+Player 1 answers that guess/shot missed.
+Round 648
+Player 2 guesses/fires at row 28 column 40.
+Player 1 answers that guess/shot missed.
+Round 649
+Player 2 guesses/fires at row 2 column 36.
+Player 1 answers that guess/shot missed.
+Round 650
+Player 2 guesses/fires at row 11 column 9.
+Player 1 answers that guess/shot missed.
+Round 651
+Player 2 guesses/fires at row 12 column 32.
+Player 1 answers that guess/shot missed.
+Round 652
+Player 2 guesses/fires at row 7 column 7.
+Player 1 answers that guess/shot missed.
+Round 653
+Player 2 guesses/fires at row 30 column 2.
+Player 1 answers that guess/shot missed.
+Round 654
+Player 2 guesses/fires at row 33 column 39.
+Player 1 answers that guess/shot missed.
+Round 655
+Player 2 guesses/fires at row 36 column 10.
+Player 1 answers that guess/shot missed.
+Round 656
+Player 2 guesses/fires at row 22 column 34.
+Player 1 answers that guess/shot missed.
+Round 657
+Player 2 guesses/fires at row 26 column 8.
+Player 1 answers that guess/shot missed.
+Round 658
+Player 2 guesses/fires at row 46 column 22.
+Player 1 answers that guess/shot missed.
+Round 659
+Player 2 guesses/fires at row 20 column 0.
+Player 1 answers that guess/shot missed.
+Round 660
+Player 2 guesses/fires at row 35 column 41.
+Player 1 answers that guess/shot missed.
+Round 661
+Player 2 guesses/fires at row 30 column 26.
+Player 1 answers that guess/shot missed.
+Round 662
+Player 2 guesses/fires at row 21 column 9.
+Player 1 answers that guess/shot missed.
+Round 663
+Player 2 guesses/fires at row 17 column 11.
+Player 1 answers that guess/shot missed.
+Round 664
+Player 2 guesses/fires at row 15 column 41.
+Player 1 answers that guess/shot missed.
+Round 665
+Player 2 guesses/fires at row 34 column 18.
+Player 1 answers that guess/shot missed.
+Round 666
+Player 2 guesses/fires at row 35 column 37.
+Player 1 answers that guess/shot missed.
+Round 667
+Player 2 guesses/fires at row 13 column 11.
+Player 1 answers that guess/shot missed.
+Round 668
+Player 2 guesses/fires at row 33 column 33.
+Player 1 answers that guess/shot missed.
+Round 669
+Player 2 guesses/fires at row 4 column 20.
+Player 1 answers that guess/shot missed.
+Round 670
+Player 2 guesses/fires at row 48 column 12.
+Player 1 answers that guess/shot missed.
+Round 671
+Player 2 guesses/fires at row 29 column 39.
+Player 1 answers that guess/shot missed.
+Round 672
+Player 2 guesses/fires at row 32 column 42.
+Player 1 answers that guess/shot missed.
+Round 673
+Player 2 guesses/fires at row 40 column 12.
+Player 1 answers that guess/shot missed.
+Round 674
+Player 2 guesses/fires at row 26 column 32.
+Player 1 answers that guess/shot missed.
+Round 675
+Player 2 guesses/fires at row 30 column 14.
+Player 1 answers that guess/shot missed.
+Round 676
+Player 2 guesses/fires at row 46 column 44.
+Player 1 answers that guess/shot missed.
+Round 677
+Player 2 guesses/fires at row 4 column 22.
+Player 1 answers that guess/shot missed.
+Round 678
+Player 2 guesses/fires at row 22 column 30.
+Player 1 answers that guess/shot missed.
+Round 679
+Player 2 guesses/fires at row 24 column 48.
+Player 1 answers that guess/shot missed.
+Round 680
+Player 2 guesses/fires at row 19 column 5.
+Player 1 answers that guess/shot missed.
+Round 681
+Player 2 guesses/fires at row 22 column 22.
+Player 1 answers that guess/shot missed.
+Round 682
+Player 2 guesses/fires at row 2 column 0.
+Player 1 answers that guess/shot missed.
+Round 683
+Player 2 guesses/fires at row 16 column 38.
+Player 1 answers that guess/shot missed.
+Round 684
+Player 2 guesses/fires at row 15 column 3.
+Player 1 answers that guess/shot missed.
+Round 685
+Player 2 guesses/fires at row 26 column 42.
+Player 1 answers that guess/shot missed.
+Round 686
+Player 2 guesses/fires at row 45 column 31.
+Player 1 answers that guess/shot missed.
+Round 687
+Player 2 guesses/fires at row 37 column 7.
+Player 1 answers that guess/shot missed.
+Round 688
+Player 2 guesses/fires at row 11 column 41.
+Player 1 answers that guess/shot missed.
+Round 689
+Player 2 guesses/fires at row 27 column 17.
+Player 1 answers that guess/shot missed.
+Round 690
+Player 2 guesses/fires at row 18 column 38.
+Player 1 answers that guess/shot missed.
+Round 691
+Player 2 guesses/fires at row 43 column 9.
+Player 1 answers that guess/shot missed.
+Round 692
+Player 2 guesses/fires at row 36 column 12.
+Player 1 answers that guess/shot missed.
+Round 693
+Player 2 guesses/fires at row 11 column 3.
+Player 1 answers that guess/shot missed.
+Round 694
+Player 2 guesses/fires at row 6 column 46.
+Player 1 answers that guess/shot missed.
+Round 695
+Player 2 guesses/fires at row 43 column 35.
+Player 1 answers that guess/shot missed.
+Round 696
+Player 2 guesses/fires at row 4 column 38.
+Player 1 answers that guess/shot missed.
+Round 697
+Player 2 guesses/fires at row 6 column 34.
+Player 1 answers that guess/shot missed.
+Round 698
+Player 2 guesses/fires at row 10 column 14.
+Player 1 answers that guess/shot missed.
+Round 699
+Player 2 guesses/fires at row 22 column 16.
+Player 1 answers that guess/shot missed.
+Round 700
+Player 2 guesses/fires at row 14 column 4.
+Player 1 answers that guess/shot missed.
+Round 701
+Player 2 guesses/fires at row 12 column 48.
+Player 1 answers that guess/shot missed.
+Round 702
+Player 2 guesses/fires at row 8 column 32.
+Player 1 answers that guess/shot missed.
+Round 703
+Player 2 guesses/fires at row 3 column 3.
+Player 1 answers that guess/shot missed.
+Round 704
+Player 2 guesses/fires at row 35 column 19.
+Player 1 answers that guess/shot missed.
+Round 705
+Player 2 guesses/fires at row 6 column 16.
+Player 1 answers that guess/shot missed.
+Round 706
+Player 2 guesses/fires at row 5 column 43.
+Player 1 answers that guess/shot missed.
+Round 707
+Player 2 guesses/fires at row 2 column 10.
+Player 1 answers that guess/shot missed.
+Round 708
+Player 2 guesses/fires at row 29 column 15.
+Player 1 answers that guess/shot missed.
+Round 709
+Player 2 guesses/fires at row 37 column 11.
+Player 1 answers that guess/shot missed.
+Round 710
+Player 2 guesses/fires at row 9 column 29.
+Player 1 answers that guess/shot missed.
+Round 711
+Player 2 guesses/fires at row 23 column 31.
+Player 1 answers that guess/shot missed.
+Round 712
+Player 2 guesses/fires at row 9 column 1.
+Player 1 answers that guess/shot missed.
+Round 713
+Player 2 guesses/fires at row 48 column 40.
+Player 1 answers that guess/shot missed.
+Round 714
+Player 2 guesses/fires at row 3 column 27.
+Player 1 answers that guess/shot missed.
+Round 715
+Player 2 guesses/fires at row 18 column 6.
+Player 1 answers that guess/shot missed.
+Round 716
+Player 2 guesses/fires at row 26 column 30.
+Player 1 answers that guess/shot missed.
+Round 717
+Player 2 guesses/fires at row 23 column 5.
+Player 1 answers that guess/shot missed.
+Round 718
+Player 2 guesses/fires at row 8 column 48.
+Player 1 answers that guess/shot missed.
+Round 719
+Player 2 guesses/fires at row 5 column 41.
+Player 1 answers that guess/shot missed.
+Round 720
+Player 2 guesses/fires at row 0 column 30.
+Player 1 answers that guess/shot missed.
+Round 721
+Player 2 guesses/fires at row 21 column 23.
+Player 1 answers that guess/shot missed.
+Round 722
+Player 2 guesses/fires at row 43 column 5.
+Player 1 answers that guess/shot missed.
+Round 723
+Player 2 guesses/fires at row 18 column 32.
+Player 1 answers that guess/shot missed.
+Round 724
+Player 2 guesses/fires at row 32 column 26.
+Player 1 answers that guess/shot missed.
+Round 725
+Player 2 guesses/fires at row 14 column 32.
+Player 1 answers that guess/shot missed.
+Round 726
+Player 2 guesses/fires at row 41 column 35.
+Player 1 answers that guess/shot missed.
+Round 727
+Player 2 guesses/fires at row 33 column 9.
+Player 1 answers that guess/shot missed.
+Round 728
+Player 2 guesses/fires at row 48 column 44.
+Player 1 answers that guess/shot missed.
+Round 729
+Player 2 guesses/fires at row 35 column 3.
+Player 1 answers that guess/shot missed.
+Round 730
+Player 2 guesses/fires at row 16 column 18.
+Player 1 answers that guess/shot missed.
+Round 731
+Player 2 guesses/fires at row 27 column 13.
+Player 1 answers that guess/shot missed.
+Round 732
+Player 2 guesses/fires at row 44 column 10.
+Player 1 answers that guess/shot missed.
+Round 733
+Player 2 guesses/fires at row 40 column 24.
+Player 1 answers that guess/shot missed.
+Round 734
+Player 2 guesses/fires at row 27 column 15.
+Player 1 answers that guess/shot missed.
+Round 735
+Player 2 guesses/fires at row 30 column 30.
+Player 1 answers that guess/shot missed.
+Round 736
+Player 2 guesses/fires at row 8 column 4.
+Player 1 answers that guess/shot missed.
+Round 737
+Player 2 guesses/fires at row 14 column 26.
+Player 1 answers that guess/shot missed.
+Round 738
+Player 2 guesses/fires at row 48 column 10.
+Player 1 answers that guess/shot missed.
+Round 739
+Player 2 guesses/fires at row 28 column 2.
+Player 1 answers that guess/shot missed.
+Round 740
+Player 2 guesses/fires at row 46 column 20.
+Player 1 answers that guess/shot missed.
+Round 741
+Player 2 guesses/fires at row 31 column 9.
+Player 1 answers that guess/shot missed.
+Round 742
+Player 2 guesses/fires at row 33 column 1.
+Player 1 answers that guess/shot missed.
+Round 743
+Player 2 guesses/fires at row 46 column 40.
+Player 1 answers that guess/shot missed.
+Round 744
+Player 2 guesses/fires at row 3 column 25.
+Player 1 answers that guess/shot missed.
+Round 745
+Player 2 guesses/fires at row 14 column 34.
+Player 1 answers that guess/shot missed.
+Round 746
+Player 2 guesses/fires at row 6 column 38.
+Player 1 answers that guess/shot missed.
+Round 747
+Player 2 guesses/fires at row 19 column 7.
+Player 1 answers that guess/shot missed.
+Round 748
+Player 2 guesses/fires at row 4 column 12.
+Player 1 answers that guess/shot missed.
+Round 749
+Player 2 guesses/fires at row 25 column 45.
+Player 1 answers that guess/shot missed.
+Round 750
+Player 2 guesses/fires at row 43 column 23.
+Player 1 answers that guess/shot missed.
+Round 751
+Player 2 guesses/fires at row 19 column 49.
+Player 1 answers that guess/shot missed.
+Round 752
+Player 2 guesses/fires at row 3 column 1.
+Player 1 answers that guess/shot missed.
+Round 753
+Player 2 guesses/fires at row 22 column 0.
+Player 1 answers that guess/shot missed.
+Round 754
+Player 2 guesses/fires at row 42 column 14.
+Player 1 answers that guess/shot missed.
+Round 755
+Player 2 guesses/fires at row 24 column 4.
+Player 1 answers that guess/shot missed.
+Round 756
+Player 2 guesses/fires at row 12 column 12.
+Player 1 answers that guess/shot missed.
+Round 757
+Player 2 guesses/fires at row 10 column 26.
+Player 1 answers that guess/shot missed.
+Round 758
+Player 2 guesses/fires at row 46 column 10.
+Player 1 answers that guess/shot missed.
+Round 759
+Player 2 guesses/fires at row 11 column 13.
+Player 1 answers that guess/shot missed.
+Round 760
+Player 2 guesses/fires at row 3 column 21.
+Player 1 answers that guess/shot missed.
+Round 761
+Player 2 guesses/fires at row 19 column 21.
+Player 1 answers that guess/shot missed.
+Round 762
+Player 2 guesses/fires at row 5 column 13.
+Player 1 answers that guess/shot missed.
+Round 763
+Player 2 guesses/fires at row 47 column 15.
+Player 1 answers that guess/shot missed.
+Round 764
+Player 2 guesses/fires at row 25 column 25.
+Player 1 answers that a ship is hit.
+Round 765
+Player 2 guesses/fires at row 25 column 26.
+Player 1 answers that guess/shot missed.
+Round 766
+Player 2 guesses/fires at row 25 column 24.
+Player 1 answers that guess/shot missed.
+Round 767
+Player 2 guesses/fires at row 26 column 25.
+Player 1 answers that guess/shot missed.
+Round 768
+Player 2 guesses/fires at row 24 column 25.
+Player 1 answers that a ship is hit.
+Round 769
+Player 2 guesses/fires at row 23 column 25.
+Player 1 answers that the Submarine is hit and sunk.
+Round 770
+Player 2 guesses/fires at row 23 column 26.
+Player 1 answers that guess/shot missed.
+Round 771
+Player 2 guesses/fires at row 23 column 24.
+Player 1 answers that guess/shot missed.
+Round 772
+Player 2 guesses/fires at row 22 column 25.
+Player 1 answers that guess/shot missed.
+Round 773
+Player 2 guesses/fires at row 18 column 44.
+Player 1 answers that guess/shot missed.
+Round 774
+Player 2 guesses/fires at row 0 column 40.
+Player 1 answers that guess/shot missed.
+Round 775
+Player 2 guesses/fires at row 16 column 26.
+Player 1 answers that guess/shot missed.
+Round 776
+Player 2 guesses/fires at row 37 column 21.
+Player 1 answers that guess/shot missed.
+Round 777
+Player 2 guesses/fires at row 37 column 17.
+Player 1 answers that guess/shot missed.
+Round 778
+Player 2 guesses/fires at row 21 column 49.
+Player 1 answers that guess/shot missed.
+Round 779
+Player 2 guesses/fires at row 43 column 1.
+Player 1 answers that guess/shot missed.
+Round 780
+Player 2 guesses/fires at row 5 column 29.
+Player 1 answers that guess/shot missed.
+Round 781
+Player 2 guesses/fires at row 7 column 47.
+Player 1 answers that guess/shot missed.
+Round 782
+Player 2 guesses/fires at row 36 column 24.
+Player 1 answers that guess/shot missed.
+Round 783
+Player 2 guesses/fires at row 47 column 9.
+Player 1 answers that guess/shot missed.
+Round 784
+Player 2 guesses/fires at row 12 column 2.
+Player 1 answers that guess/shot missed.
+Round 785
+Player 2 guesses/fires at row 30 column 12.
+Player 1 answers that guess/shot missed.
+Round 786
+Player 2 guesses/fires at row 1 column 49.
+Player 1 answers that guess/shot missed.
+Round 787
+Player 2 guesses/fires at row 35 column 27.
+Player 1 answers that guess/shot missed.
+Round 788
+Player 2 guesses/fires at row 44 column 6.
+Player 1 answers that guess/shot missed.
+Round 789
+Player 2 guesses/fires at row 25 column 7.
+Player 1 answers that guess/shot missed.
+Round 790
+Player 2 guesses/fires at row 38 column 12.
+Player 1 answers that guess/shot missed.
+Round 791
+Player 2 guesses/fires at row 2 column 38.
+Player 1 answers that guess/shot missed.
+Round 792
+Player 2 guesses/fires at row 14 column 22.
+Player 1 answers that guess/shot missed.
+Round 793
+Player 2 guesses/fires at row 28 column 32.
+Player 1 answers that guess/shot missed.
+Round 794
+Player 2 guesses/fires at row 19 column 25.
+Player 1 answers that guess/shot missed.
+Round 795
+Player 2 guesses/fires at row 29 column 43.
+Player 1 answers that guess/shot missed.
+Round 796
+Player 2 guesses/fires at row 35 column 43.
+Player 1 answers that guess/shot missed.
+Round 797
+Player 2 guesses/fires at row 44 column 40.
+Player 1 answers that guess/shot missed.
+Round 798
+Player 2 guesses/fires at row 49 column 33.
+Player 1 answers that guess/shot missed.
+Round 799
+Player 2 guesses/fires at row 5 column 9.
+Player 1 answers that guess/shot missed.
+Round 800
+Player 2 guesses/fires at row 38 column 40.
+Player 1 answers that guess/shot missed.
+Round 801
+Player 2 guesses/fires at row 49 column 15.
+Player 1 answers that guess/shot missed.
+Round 802
+Player 2 guesses/fires at row 35 column 13.
+Player 1 answers that guess/shot missed.
+Round 803
+Player 2 guesses/fires at row 10 column 16.
+Player 1 answers that guess/shot missed.
+Round 804
+Player 2 guesses/fires at row 14 column 42.
+Player 1 answers that guess/shot missed.
+Round 805
+Player 2 guesses/fires at row 16 column 46.
+Player 1 answers that guess/shot missed.
+Round 806
+Player 2 guesses/fires at row 22 column 14.
+Player 1 answers that guess/shot missed.
+Round 807
+Player 2 guesses/fires at row 30 column 36.
+Player 1 answers that guess/shot missed.
+Round 808
+Player 2 guesses/fires at row 27 column 41.
+Player 1 answers that guess/shot missed.
+Round 809
+Player 2 guesses/fires at row 22 column 36.
+Player 1 answers that guess/shot missed.
+Round 810
+Player 2 guesses/fires at row 8 column 40.
+Player 1 answers that guess/shot missed.
+Round 811
+Player 2 guesses/fires at row 23 column 33.
+Player 1 answers that guess/shot missed.
+Round 812
+Player 2 guesses/fires at row 31 column 33.
+Player 1 answers that guess/shot missed.
+Round 813
+Player 2 guesses/fires at row 2 column 6.
+Player 1 answers that guess/shot missed.
+Round 814
+Player 2 guesses/fires at row 22 column 42.
+Player 1 answers that guess/shot missed.
+Round 815
+Player 2 guesses/fires at row 31 column 37.
+Player 1 answers that guess/shot missed.
+Round 816
+Player 2 guesses/fires at row 26 column 40.
+Player 1 answers that guess/shot missed.
+Round 817
+Player 2 guesses/fires at row 42 column 40.
+Player 1 answers that guess/shot missed.
+Round 818
+Player 2 guesses/fires at row 6 column 36.
+Player 1 answers that guess/shot missed.
+Round 819
+Player 2 guesses/fires at row 43 column 21.
+Player 1 answers that guess/shot missed.
+Round 820
+Player 2 guesses/fires at row 21 column 47.
+Player 1 answers that guess/shot missed.
+Round 821
+Player 2 guesses/fires at row 26 column 6.
+Player 1 answers that guess/shot missed.
+Round 822
+Player 2 guesses/fires at row 21 column 1.
+Player 1 answers that guess/shot missed.
+Round 823
+Player 2 guesses/fires at row 36 column 0.
+Player 1 answers that guess/shot missed.
+Round 824
+Player 2 guesses/fires at row 8 column 14.
+Player 1 answers that guess/shot missed.
+Round 825
+Player 2 guesses/fires at row 22 column 24.
+Player 1 answers that guess/shot missed.
+Round 826
+Player 2 guesses/fires at row 36 column 36.
+Player 1 answers that guess/shot missed.
+Round 827
+Player 2 guesses/fires at row 39 column 13.
+Player 1 answers that guess/shot missed.
+Round 828
+Player 2 guesses/fires at row 43 column 19.
+Player 1 answers that guess/shot missed.
+Round 829
+Player 2 guesses/fires at row 19 column 17.
+Player 1 answers that guess/shot missed.
+Round 830
+Player 2 guesses/fires at row 26 column 28.
+Player 1 answers that guess/shot missed.
+Round 831
+Player 2 guesses/fires at row 45 column 19.
+Player 1 answers that guess/shot missed.
+Round 832
+Player 2 guesses/fires at row 14 column 24.
+Player 1 answers that guess/shot missed.
+Round 833
+Player 2 guesses/fires at row 31 column 45.
+Player 1 answers that guess/shot missed.
+Round 834
+Player 2 guesses/fires at row 34 column 26.
+Player 1 answers that guess/shot missed.
+Round 835
+Player 2 guesses/fires at row 48 column 34.
+Player 1 answers that guess/shot missed.
+Round 836
+Player 2 guesses/fires at row 7 column 5.
+Player 1 answers that guess/shot missed.
+Round 837
+Player 2 guesses/fires at row 28 column 20.
+Player 1 answers that guess/shot missed.
+Round 838
+Player 2 guesses/fires at row 7 column 39.
+Player 1 answers that guess/shot missed.
+Round 839
+Player 2 guesses/fires at row 32 column 10.
+Player 1 answers that guess/shot missed.
+Round 840
+Player 2 guesses/fires at row 34 column 38.
+Player 1 answers that guess/shot missed.
+Round 841
+Player 2 guesses/fires at row 5 column 3.
+Player 1 answers that guess/shot missed.
+Round 842
+Player 2 guesses/fires at row 44 column 26.
+Player 1 answers that guess/shot missed.
+Round 843
+Player 2 guesses/fires at row 48 column 8.
+Player 1 answers that guess/shot missed.
+Round 844
+Player 2 guesses/fires at row 22 column 6.
+Player 1 answers that guess/shot missed.
+Round 845
+Player 2 guesses/fires at row 32 column 4.
+Player 1 answers that guess/shot missed.
+Round 846
+Player 2 guesses/fires at row 6 column 48.
+Player 1 answers that guess/shot missed.
+Round 847
+Player 2 guesses/fires at row 25 column 29.
+Player 1 answers that guess/shot missed.
+Round 848
+Player 2 guesses/fires at row 44 column 44.
+Player 1 answers that guess/shot missed.
+Round 849
+Player 2 guesses/fires at row 16 column 16.
+Player 1 answers that guess/shot missed.
+Round 850
+Player 2 guesses/fires at row 20 column 6.
+Player 1 answers that guess/shot missed.
+Round 851
+Player 2 guesses/fires at row 40 column 6.
+Player 1 answers that guess/shot missed.
+Round 852
+Player 2 guesses/fires at row 24 column 0.
+Player 1 answers that guess/shot missed.
+Round 853
+Player 2 guesses/fires at row 40 column 8.
+Player 1 answers that guess/shot missed.
+Round 854
+Player 2 guesses/fires at row 17 column 29.
+Player 1 answers that guess/shot missed.
+Round 855
+Player 2 guesses/fires at row 33 column 5.
+Player 1 answers that guess/shot missed.
+Round 856
+Player 2 guesses/fires at row 30 column 44.
+Player 1 answers that guess/shot missed.
+Round 857
+Player 2 guesses/fires at row 34 column 34.
+Player 1 answers that guess/shot missed.
+Round 858
+Player 2 guesses/fires at row 35 column 15.
+Player 1 answers that guess/shot missed.
+Round 859
+Player 2 guesses/fires at row 17 column 3.
+Player 1 answers that guess/shot missed.
+Round 860
+Player 2 guesses/fires at row 1 column 7.
+Player 1 answers that guess/shot missed.
+Round 861
+Player 2 guesses/fires at row 19 column 45.
+Player 1 answers that guess/shot missed.
+Round 862
+Player 2 guesses/fires at row 14 column 44.
+Player 1 answers that guess/shot missed.
+Round 863
+Player 2 guesses/fires at row 2 column 48.
+Player 1 answers that guess/shot missed.
+Round 864
+Player 2 guesses/fires at row 29 column 25.
+Player 1 answers that guess/shot missed.
+Round 865
+Player 2 guesses/fires at row 7 column 19.
+Player 1 answers that guess/shot missed.
+Round 866
+Player 2 guesses/fires at row 36 column 22.
+Player 1 answers that guess/shot missed.
+Round 867
+Player 2 guesses/fires at row 18 column 4.
+Player 1 answers that guess/shot missed.
+Round 868
+Player 2 guesses/fires at row 10 column 22.
+Player 1 answers that guess/shot missed.
+Round 869
+Player 2 guesses/fires at row 36 column 46.
+Player 1 answers that guess/shot missed.
+Round 870
+Player 2 guesses/fires at row 38 column 0.
+Player 1 answers that guess/shot missed.
+Round 871
+Player 2 guesses/fires at row 2 column 20.
+Player 1 answers that guess/shot missed.
+Round 872
+Player 2 guesses/fires at row 7 column 31.
+Player 1 answers that guess/shot missed.
+Round 873
+Player 2 guesses/fires at row 47 column 41.
+Player 1 answers that guess/shot missed.
+Round 874
+Player 2 guesses/fires at row 8 column 20.
+Player 1 answers that guess/shot missed.
+Round 875
+Player 2 guesses/fires at row 17 column 1.
+Player 1 answers that guess/shot missed.
+Round 876
+Player 2 guesses/fires at row 37 column 15.
+Player 1 answers that guess/shot missed.
+Round 877
+Player 2 guesses/fires at row 18 column 46.
+Player 1 answers that guess/shot missed.
+Round 878
+Player 2 guesses/fires at row 49 column 45.
+Player 1 answers that guess/shot missed.
+Round 879
+Player 2 guesses/fires at row 18 column 14.
+Player 1 answers that guess/shot missed.
+Round 880
+Player 2 guesses/fires at row 8 column 26.
+Player 1 answers that guess/shot missed.
+Round 881
+Player 2 guesses/fires at row 24 column 36.
+Player 1 answers that guess/shot missed.
+Round 882
+Player 2 guesses/fires at row 8 column 36.
+Player 1 answers that guess/shot missed.
+Round 883
+Player 2 guesses/fires at row 47 column 19.
+Player 1 answers that guess/shot missed.
+Round 884
+Player 2 guesses/fires at row 37 column 1.
+Player 1 answers that guess/shot missed.
+Round 885
+Player 2 guesses/fires at row 49 column 39.
+Player 1 answers that guess/shot missed.
+Round 886
+Player 2 guesses/fires at row 27 column 19.
+Player 1 answers that guess/shot missed.
+Round 887
+Player 2 guesses/fires at row 11 column 43.
+Player 1 answers that guess/shot missed.
+Round 888
+Player 2 guesses/fires at row 11 column 5.
+Player 1 answers that guess/shot missed.
+Round 889
+Player 2 guesses/fires at row 9 column 13.
+Player 1 answers that guess/shot missed.
+Round 890
+Player 2 guesses/fires at row 24 column 22.
+Player 1 answers that guess/shot missed.
+Round 891
+Player 2 guesses/fires at row 18 column 48.
+Player 1 answers that guess/shot missed.
+Round 892
+Player 2 guesses/fires at row 10 column 48.
+Player 1 answers that guess/shot missed.
+Round 893
+Player 2 guesses/fires at row 30 column 42.
+Player 1 answers that guess/shot missed.
+Round 894
+Player 2 guesses/fires at row 46 column 18.
+Player 1 answers that guess/shot missed.
+Round 895
+Player 2 guesses/fires at row 46 column 2.
+Player 1 answers that guess/shot missed.
+Round 896
+Player 2 guesses/fires at row 42 column 30.
+Player 1 answers that guess/shot missed.
+Round 897
+Player 2 guesses/fires at row 37 column 19.
+Player 1 answers that guess/shot missed.
+Round 898
+Player 2 guesses/fires at row 42 column 10.
+Player 1 answers that guess/shot missed.
+Round 899
+Player 2 guesses/fires at row 4 column 10.
+Player 1 answers that guess/shot missed.
+Round 900
+Player 2 guesses/fires at row 40 column 28.
+Player 1 answers that guess/shot missed.
+Round 901
+Player 2 guesses/fires at row 42 column 42.
+Player 1 answers that guess/shot missed.
+Round 902
+Player 2 guesses/fires at row 15 column 23.
+Player 1 answers that guess/shot missed.
+Round 903
+Player 2 guesses/fires at row 3 column 13.
+Player 1 answers that guess/shot missed.
+Round 904
+Player 2 guesses/fires at row 46 column 26.
+Player 1 answers that guess/shot missed.
+Round 905
+Player 2 guesses/fires at row 45 column 47.
+Player 1 answers that guess/shot missed.
+Round 906
+Player 2 guesses/fires at row 9 column 35.
+Player 1 answers that guess/shot missed.
+Round 907
+Player 2 guesses/fires at row 23 column 19.
+Player 1 answers that guess/shot missed.
+Round 908
+Player 2 guesses/fires at row 14 column 14.
+Player 1 answers that guess/shot missed.
+Round 909
+Player 2 guesses/fires at row 49 column 31.
+Player 1 answers that guess/shot missed.
+Round 910
+Player 2 guesses/fires at row 21 column 15.
+Player 1 answers that guess/shot missed.
+Round 911
+Player 2 guesses/fires at row 23 column 1.
+Player 1 answers that guess/shot missed.
+Round 912
+Player 2 guesses/fires at row 33 column 37.
+Player 1 answers that guess/shot missed.
+Round 913
+Player 2 guesses/fires at row 31 column 19.
+Player 1 answers that guess/shot missed.
+Round 914
+Player 2 guesses/fires at row 8 column 44.
+Player 1 answers that guess/shot missed.
+Round 915
+Player 2 guesses/fires at row 12 column 40.
+Player 1 answers that guess/shot missed.
+Round 916
+Player 2 guesses/fires at row 28 column 0.
+Player 1 answers that guess/shot missed.
+Round 917
+Player 2 guesses/fires at row 35 column 23.
+Player 1 answers that guess/shot missed.
+Round 918
+Player 2 guesses/fires at row 15 column 15.
+Player 1 answers that guess/shot missed.
+Round 919
+Player 2 guesses/fires at row 37 column 25.
+Player 1 answers that guess/shot missed.
+Round 920
+Player 2 guesses/fires at row 15 column 31.
+Player 1 answers that guess/shot missed.
+Round 921
+Player 2 guesses/fires at row 13 column 29.
+Player 1 answers that guess/shot missed.
+Round 922
+Player 2 guesses/fires at row 31 column 3.
+Player 1 answers that guess/shot missed.
+Round 923
+Player 2 guesses/fires at row 4 column 18.
+Player 1 answers that guess/shot missed.
+Round 924
+Player 2 guesses/fires at row 28 column 36.
+Player 1 answers that guess/shot missed.
+Round 925
+Player 2 guesses/fires at row 44 column 48.
+Player 1 answers that guess/shot missed.
+Round 926
+Player 2 guesses/fires at row 16 column 42.
+Player 1 answers that guess/shot missed.
+Round 927
+Player 2 guesses/fires at row 4 column 30.
+Player 1 answers that guess/shot missed.
+Round 928
+Player 2 guesses/fires at row 14 column 20.
+Player 1 answers that guess/shot missed.
+Round 929
+Player 2 guesses/fires at row 26 column 18.
+Player 1 answers that guess/shot missed.
+Round 930
+Player 2 guesses/fires at row 48 column 4.
+Player 1 answers that guess/shot missed.
+Round 931
+Player 2 guesses/fires at row 7 column 9.
+Player 1 answers that guess/shot missed.
+Round 932
+Player 2 guesses/fires at row 18 column 0.
+Player 1 answers that guess/shot missed.
+Round 933
+Player 2 guesses/fires at row 38 column 42.
+Player 1 answers that guess/shot missed.
+Round 934
+Player 2 guesses/fires at row 45 column 11.
+Player 1 answers that guess/shot missed.
+Round 935
+Player 2 guesses/fires at row 2 column 14.
+Player 1 answers that guess/shot missed.
+Round 936
+Player 2 guesses/fires at row 8 column 22.
+Player 1 answers that guess/shot missed.
+Round 937
+Player 2 guesses/fires at row 27 column 39.
+Player 1 answers that guess/shot missed.
+Round 938
+Player 2 guesses/fires at row 5 column 5.
+Player 1 answers that guess/shot missed.
+Round 939
+Player 2 guesses/fires at row 33 column 41.
+Player 1 answers that guess/shot missed.
+Round 940
+Player 2 guesses/fires at row 38 column 30.
+Player 1 answers that guess/shot missed.
+Round 941
+Player 2 guesses/fires at row 10 column 38.
+Player 1 answers that guess/shot missed.
+Round 942
+Player 2 guesses/fires at row 13 column 35.
+Player 1 answers that guess/shot missed.
+Round 943
+Player 2 guesses/fires at row 41 column 11.
+Player 1 answers that guess/shot missed.
+Round 944
+Player 2 guesses/fires at row 32 column 0.
+Player 1 answers that guess/shot missed.
+Round 945
+Player 2 guesses/fires at row 38 column 34.
+Player 1 answers that guess/shot missed.
+Round 946
+Player 2 guesses/fires at row 34 column 46.
+Player 1 answers that guess/shot missed.
+Round 947
+Player 2 guesses/fires at row 47 column 33.
+Player 1 answers that guess/shot missed.
+Round 948
+Player 2 guesses/fires at row 46 column 4.
+Player 1 answers that guess/shot missed.
+Round 949
+Player 2 guesses/fires at row 39 column 31.
+Player 1 answers that guess/shot missed.
+Round 950
+Player 2 guesses/fires at row 30 column 38.
+Player 1 answers that guess/shot missed.
+Round 951
+Player 2 guesses/fires at row 8 column 42.
+Player 1 answers that guess/shot missed.
+Round 952
+Player 2 guesses/fires at row 26 column 16.
+Player 1 answers that guess/shot missed.
+Round 953
+Player 2 guesses/fires at row 24 column 44.
+Player 1 answers that guess/shot missed.
+Round 954
+Player 2 guesses/fires at row 27 column 49.
+Player 1 answers that guess/shot missed.
+Round 955
+Player 2 guesses/fires at row 18 column 22.
+Player 1 answers that guess/shot missed.
+Round 956
+Player 2 guesses/fires at row 43 column 7.
+Player 1 answers that guess/shot missed.
+Round 957
+Player 2 guesses/fires at row 31 column 31.
+Player 1 answers that guess/shot missed.
+Round 958
+Player 2 guesses/fires at row 30 column 22.
+Player 1 answers that guess/shot missed.
+Round 959
+Player 2 guesses/fires at row 19 column 47.
+Player 1 answers that guess/shot missed.
+Round 960
+Player 2 guesses/fires at row 27 column 11.
+Player 1 answers that guess/shot missed.
+Round 961
+Player 2 guesses/fires at row 27 column 7.
+Player 1 answers that guess/shot missed.
+Round 962
+Player 2 guesses/fires at row 28 column 30.
+Player 1 answers that guess/shot missed.
+Round 963
+Player 2 guesses/fires at row 4 column 6.
+Player 1 answers that guess/shot missed.
+Round 964
+Player 2 guesses/fires at row 45 column 49.
+Player 1 answers that guess/shot missed.
+Round 965
+Player 2 guesses/fires at row 1 column 19.
+Player 1 answers that guess/shot missed.
+Round 966
+Player 2 guesses/fires at row 13 column 15.
+Player 1 answers that guess/shot missed.
+Round 967
+Player 2 guesses/fires at row 45 column 45.
+Player 1 answers that guess/shot missed.
+Round 968
+Player 2 guesses/fires at row 47 column 29.
+Player 1 answers that guess/shot missed.
+Round 969
+Player 2 guesses/fires at row 43 column 39.
+Player 1 answers that guess/shot missed.
+Round 970
+Player 2 guesses/fires at row 14 column 28.
+Player 1 answers that guess/shot missed.
+Round 971
+Player 2 guesses/fires at row 28 column 48.
+Player 1 answers that guess/shot missed.
+Round 972
+Player 2 guesses/fires at row 28 column 12.
+Player 1 answers that guess/shot missed.
+Round 973
+Player 2 guesses/fires at row 19 column 43.
+Player 1 answers that guess/shot missed.
+Round 974
+Player 2 guesses/fires at row 2 column 18.
+Player 1 answers that guess/shot missed.
+Round 975
+Player 2 guesses/fires at row 13 column 5.
+Player 1 answers that guess/shot missed.
+Round 976
+Player 2 guesses/fires at row 40 column 36.
+Player 1 answers that guess/shot missed.
+Round 977
+Player 2 guesses/fires at row 35 column 25.
+Player 1 answers that guess/shot missed.
+Round 978
+Player 2 guesses/fires at row 31 column 7.
+Player 1 answers that guess/shot missed.
+Round 979
+Player 2 guesses/fires at row 34 column 48.
+Player 1 answers that guess/shot missed.
+Round 980
+Player 2 guesses/fires at row 46 column 16.
+Player 1 answers that guess/shot missed.
+Round 981
+Player 2 guesses/fires at row 46 column 0.
+Player 1 answers that guess/shot missed.
+Round 982
+Player 2 guesses/fires at row 29 column 31.
+Player 1 answers that guess/shot missed.
+Round 983
+Player 2 guesses/fires at row 39 column 5.
+Player 1 answers that guess/shot missed.
+Round 984
+Player 2 guesses/fires at row 36 column 44.
+Player 1 answers that guess/shot missed.
+Round 985
+Player 2 guesses/fires at row 48 column 6.
+Player 1 answers that guess/shot missed.
+Round 986
+Player 2 guesses/fires at row 43 column 27.
+Player 1 answers that guess/shot missed.
+Round 987
+Player 2 guesses/fires at row 19 column 31.
+Player 1 answers that guess/shot missed.
+Round 988
+Player 2 guesses/fires at row 34 column 30.
+Player 1 answers that guess/shot missed.
+Round 989
+Player 2 guesses/fires at row 17 column 37.
+Player 1 answers that guess/shot missed.
+Round 990
+Player 2 guesses/fires at row 39 column 3.
+Player 1 answers that guess/shot missed.
+Round 991
+Player 2 guesses/fires at row 39 column 33.
+Player 1 answers that guess/shot missed.
+Round 992
+Player 2 guesses/fires at row 15 column 33.
+Player 1 answers that guess/shot missed.
+Round 993
+Player 2 guesses/fires at row 42 column 48.
+Player 1 answers that guess/shot missed.
+Round 994
+Player 2 guesses/fires at row 4 column 48.
+Player 1 answers that guess/shot missed.
+Round 995
+Player 2 guesses/fires at row 37 column 3.
+Player 1 answers that guess/shot missed.
+Round 996
+Player 2 guesses/fires at row 11 column 47.
+Player 1 answers that guess/shot missed.
+Round 997
+Player 2 guesses/fires at row 10 column 10.
+Player 1 answers that guess/shot missed.
+Round 998
+Player 2 guesses/fires at row 40 column 44.
+Player 1 answers that guess/shot missed.
+Round 999
+Player 2 guesses/fires at row 4 column 42.
+Player 1 answers that guess/shot missed.
+Round 1000
+Player 2 guesses/fires at row 8 column 0.
+Player 1 answers that guess/shot missed.
+Round 1001
+Player 2 guesses/fires at row 37 column 13.
+Player 1 answers that guess/shot missed.
+Round 1002
+Player 2 guesses/fires at row 2 column 12.
+Player 1 answers that guess/shot missed.
+Round 1003
+Player 2 guesses/fires at row 29 column 47.
+Player 1 answers that guess/shot missed.
+Round 1004
+Player 2 guesses/fires at row 35 column 29.
+Player 1 answers that guess/shot missed.
+Round 1005
+Player 2 guesses/fires at row 11 column 29.
+Player 1 answers that guess/shot missed.
+Round 1006
+Player 2 guesses/fires at row 23 column 21.
+Player 1 answers that guess/shot missed.
+Round 1007
+Player 2 guesses/fires at row 7 column 33.
+Player 1 answers that guess/shot missed.
+Round 1008
+Player 2 guesses/fires at row 34 column 24.
+Player 1 answers that guess/shot missed.
+Round 1009
+Player 2 guesses/fires at row 6 column 40.
+Player 1 answers that guess/shot missed.
+Round 1010
+Player 2 guesses/fires at row 9 column 23.
+Player 1 answers that guess/shot missed.
+Round 1011
+Player 2 guesses/fires at row 44 column 28.
+Player 1 answers that guess/shot missed.
+Round 1012
+Player 2 guesses/fires at row 8 column 28.
+Player 1 answers that guess/shot missed.
+Round 1013
+Player 2 guesses/fires at row 25 column 17.
+Player 1 answers that guess/shot missed.
+Round 1014
+Player 2 guesses/fires at row 48 column 22.
+Player 1 answers that guess/shot missed.
+Round 1015
+Player 2 guesses/fires at row 18 column 10.
+Player 1 answers that guess/shot missed.
+Round 1016
+Player 2 guesses/fires at row 4 column 0.
+Player 1 answers that guess/shot missed.
+Round 1017
+Player 2 guesses/fires at row 23 column 7.
+Player 1 answers that guess/shot missed.
+Round 1018
+Player 2 guesses/fires at row 1 column 31.
+Player 1 answers that guess/shot missed.
+Round 1019
+Player 2 guesses/fires at row 42 column 16.
+Player 1 answers that guess/shot missed.
+Round 1020
+Player 2 guesses/fires at row 46 column 46.
+Player 1 answers that guess/shot missed.
+Round 1021
+Player 2 guesses/fires at row 4 column 4.
+Player 1 answers that guess/shot missed.
+Round 1022
+Player 2 guesses/fires at row 1 column 1.
+Player 1 answers that guess/shot missed.
+Round 1023
+Player 2 guesses/fires at row 41 column 43.
+Player 1 answers that guess/shot missed.
+Round 1024
+Player 2 guesses/fires at row 13 column 43.
+Player 1 answers that guess/shot missed.
+Round 1025
+Player 2 guesses/fires at row 28 column 16.
+Player 1 answers that guess/shot missed.
+Round 1026
+Player 2 guesses/fires at row 31 column 27.
+Player 1 answers that guess/shot missed.
+Round 1027
+Player 2 guesses/fires at row 44 column 18.
+Player 1 answers that guess/shot missed.
+Round 1028
+Player 2 guesses/fires at row 7 column 43.
+Player 1 answers that guess/shot missed.
+Round 1029
+Player 2 guesses/fires at row 19 column 33.
+Player 1 answers that guess/shot missed.
+Round 1030
+Player 2 guesses/fires at row 32 column 28.
+Player 1 answers that guess/shot missed.
+Round 1031
+Player 2 guesses/fires at row 16 column 34.
+Player 1 answers that guess/shot missed.
+Round 1032
+Player 2 guesses/fires at row 37 column 9.
+Player 1 answers that guess/shot missed.
+Round 1033
+Player 2 guesses/fires at row 27 column 45.
+Player 1 answers that guess/shot missed.
+Round 1034
+Player 2 guesses/fires at row 3 column 37.
+Player 1 answers that guess/shot missed.
+Round 1035
+Player 2 guesses/fires at row 21 column 33.
+Player 1 answers that guess/shot missed.
+Round 1036
+Player 2 guesses/fires at row 40 column 10.
+Player 1 answers that guess/shot missed.
+Round 1037
+Player 2 guesses/fires at row 47 column 1.
+Player 1 answers that guess/shot missed.
+Round 1038
+Player 2 guesses/fires at row 39 column 7.
+Player 1 answers that guess/shot missed.
+Round 1039
+Player 2 guesses/fires at row 21 column 13.
+Player 1 answers that guess/shot missed.
+Round 1040
+Player 2 guesses/fires at row 17 column 49.
+Player 1 answers that guess/shot missed.
+Round 1041
+Player 2 guesses/fires at row 14 column 2.
+Player 1 answers that guess/shot missed.
+Round 1042
+Player 2 guesses/fires at row 9 column 15.
+Player 1 answers that guess/shot missed.
+Round 1043
+Player 2 guesses/fires at row 29 column 37.
+Player 1 answers that guess/shot missed.
+Round 1044
+Player 2 guesses/fires at row 15 column 35.
+Player 1 answers that guess/shot missed.
+Round 1045
+Player 2 guesses/fires at row 32 column 46.
+Player 1 answers that guess/shot missed.
+Round 1046
+Player 2 guesses/fires at row 20 column 16.
+Player 1 answers that guess/shot missed.
+Round 1047
+Player 2 guesses/fires at row 19 column 9.
+Player 1 answers that guess/shot missed.
+Round 1048
+Player 2 guesses/fires at row 10 column 44.
+Player 1 answers that guess/shot missed.
+Round 1049
+Player 2 guesses/fires at row 6 column 4.
+Player 1 answers that guess/shot missed.
+Round 1050
+Player 2 guesses/fires at row 5 column 45.
+Player 1 answers that guess/shot missed.
+Round 1051
+Player 2 guesses/fires at row 4 column 44.
+Player 1 answers that guess/shot missed.
+Round 1052
+Player 2 guesses/fires at row 27 column 23.
+Player 1 answers that guess/shot missed.
+Round 1053
+Player 2 guesses/fires at row 36 column 40.
+Player 1 answers that guess/shot missed.
+Round 1054
+Player 2 guesses/fires at row 7 column 37.
+Player 1 answers that guess/shot missed.
+Round 1055
+Player 2 guesses/fires at row 37 column 35.
+Player 1 answers that guess/shot missed.
+Round 1056
+Player 2 guesses/fires at row 40 column 14.
+Player 1 answers that guess/shot missed.
+Round 1057
+Player 2 guesses/fires at row 16 column 12.
+Player 1 answers that guess/shot missed.
+Round 1058
+Player 2 guesses/fires at row 40 column 32.
+Player 1 answers that guess/shot missed.
+Round 1059
+Player 2 guesses/fires at row 32 column 22.
+Player 1 answers that guess/shot missed.
+Round 1060
+Player 2 guesses/fires at row 42 column 44.
+Player 1 answers that guess/shot missed.
+Round 1061
+Player 2 guesses/fires at row 48 column 20.
+Player 1 answers that guess/shot missed.
+Round 1062
+Player 2 guesses/fires at row 16 column 48.
+Player 1 answers that guess/shot missed.
+Round 1063
+Player 2 guesses/fires at row 31 column 47.
+Player 1 answers that guess/shot missed.
+Round 1064
+Player 2 guesses/fires at row 11 column 49.
+Player 1 answers that guess/shot missed.
+Round 1065
+Player 2 guesses/fires at row 41 column 41.
+Player 1 answers that guess/shot missed.
+Round 1066
+Player 2 guesses/fires at row 2 column 22.
+Player 1 answers that guess/shot missed.
+Round 1067
+Player 2 guesses/fires at row 15 column 13.
+Player 1 answers that guess/shot missed.
+Round 1068
+Player 2 guesses/fires at row 47 column 37.
+Player 1 answers that guess/shot missed.
+Round 1069
+Player 2 guesses/fires at row 9 column 19.
+Player 1 answers that guess/shot missed.
+Round 1070
+Player 2 guesses/fires at row 0 column 24.
+Player 1 answers that guess/shot missed.
+Round 1071
+Player 2 guesses/fires at row 8 column 30.
+Player 1 answers that guess/shot missed.
+Round 1072
+Player 2 guesses/fires at row 21 column 17.
+Player 1 answers that guess/shot missed.
+Round 1073
+Player 2 guesses/fires at row 10 column 18.
+Player 1 answers that guess/shot missed.
+Round 1074
+Player 2 guesses/fires at row 44 column 20.
+Player 1 answers that guess/shot missed.
+Round 1075
+Player 2 guesses/fires at row 37 column 33.
+Player 1 answers that guess/shot missed.
+Round 1076
+Player 2 guesses/fires at row 49 column 29.
+Player 1 answers that guess/shot missed.
+Round 1077
+Player 2 guesses/fires at row 32 column 48.
+Player 1 answers that guess/shot missed.
+Round 1078
+Player 2 guesses/fires at row 25 column 41.
+Player 1 answers that guess/shot missed.
+Round 1079
+Player 2 guesses/fires at row 46 column 42.
+Player 1 answers that guess/shot missed.
+Round 1080
+Player 2 guesses/fires at row 1 column 23.
+Player 1 answers that guess/shot missed.
+Round 1081
+Player 2 guesses/fires at row 37 column 47.
+Player 1 answers that guess/shot missed.
+Round 1082
+Player 2 guesses/fires at row 31 column 5.
+Player 1 answers that guess/shot missed.
+Round 1083
+Player 2 guesses/fires at row 31 column 23.
+Player 1 answers that guess/shot missed.
+Round 1084
+Player 2 guesses/fires at row 42 column 36.
+Player 1 answers that guess/shot missed.
+Round 1085
+Player 2 guesses/fires at row 28 column 18.
+Player 1 answers that guess/shot missed.
+Round 1086
+Player 2 guesses/fires at row 12 column 42.
+Player 1 answers that guess/shot missed.
+Round 1087
+Player 2 guesses/fires at row 26 column 34.
+Player 1 answers that guess/shot missed.
+Round 1088
+Player 2 guesses/fires at row 16 column 4.
+Player 1 answers that guess/shot missed.
+Round 1089
+Player 2 guesses/fires at row 20 column 20.
+Player 1 answers that guess/shot missed.
+Round 1090
+Player 2 guesses/fires at row 11 column 35.
+Player 1 answers that guess/shot missed.
+Round 1091
+Player 2 guesses/fires at row 13 column 13.
+Player 1 answers that guess/shot missed.
+Round 1092
+Player 2 guesses/fires at row 41 column 49.
+Player 1 answers that guess/shot missed.
+Round 1093
+Player 2 guesses/fires at row 32 column 6.
+Player 1 answers that guess/shot missed.
+Round 1094
+Player 2 guesses/fires at row 45 column 21.
+Player 1 answers that guess/shot missed.
+Round 1095
+Player 2 guesses/fires at row 44 column 34.
+Player 1 answers that guess/shot missed.
+Round 1096
+Player 2 guesses/fires at row 4 column 14.
+Player 1 answers that guess/shot missed.
+Round 1097
+Player 2 guesses/fires at row 6 column 32.
+Player 1 answers that guess/shot missed.
+Round 1098
+Player 2 guesses/fires at row 25 column 15.
+Player 1 answers that guess/shot missed.
+Round 1099
+Player 2 guesses/fires at row 41 column 3.
+Player 1 answers that guess/shot missed.
+Round 1100
+Player 2 guesses/fires at row 5 column 35.
+Player 1 answers that guess/shot missed.
+Round 1101
+Player 2 guesses/fires at row 13 column 33.
+Player 1 answers that guess/shot missed.
+Round 1102
+Player 2 guesses/fires at row 0 column 12.
+Player 1 answers that guess/shot missed.
+Round 1103
+Player 2 guesses/fires at row 24 column 2.
+Player 1 answers that guess/shot missed.
+Round 1104
+Player 2 guesses/fires at row 48 column 24.
+Player 1 answers that guess/shot missed.
+Round 1105
+Player 2 guesses/fires at row 49 column 37.
+Player 1 answers that guess/shot missed.
+Round 1106
+Player 2 guesses/fires at row 45 column 17.
+Player 1 answers that guess/shot missed.
+Round 1107
+Player 2 guesses/fires at row 31 column 21.
+Player 1 answers that guess/shot missed.
+Round 1108
+Player 2 guesses/fires at row 0 column 38.
+Player 1 answers that guess/shot missed.
+Round 1109
+Player 2 guesses/fires at row 37 column 41.
+Player 1 answers that guess/shot missed.
+Round 1110
+Player 2 guesses/fires at row 30 column 6.
+Player 1 answers that guess/shot missed.
+Round 1111
+Player 2 guesses/fires at row 22 column 48.
+Player 1 answers that guess/shot missed.
+Round 1112
+Player 2 guesses/fires at row 41 column 29.
+Player 1 answers that guess/shot missed.
+Round 1113
+Player 2 guesses/fires at row 28 column 8.
+Player 1 answers that guess/shot missed.
+Round 1114
+Player 2 guesses/fires at row 6 column 6.
+Player 1 answers that guess/shot missed.
+Round 1115
+Player 2 guesses/fires at row 5 column 27.
+Player 1 answers that guess/shot missed.
+Round 1116
+Player 2 guesses/fires at row 40 column 16.
+Player 1 answers that guess/shot missed.
+Round 1117
+Player 2 guesses/fires at row 42 column 18.
+Player 1 answers that guess/shot missed.
+Round 1118
+Player 2 guesses/fires at row 7 column 45.
+Player 1 answers that guess/shot missed.
+Round 1119
+Player 2 guesses/fires at row 34 column 10.
+Player 1 answers that guess/shot missed.
+Round 1120
+Player 2 guesses/fires at row 39 column 27.
+Player 1 answers that guess/shot missed.
+Round 1121
+Player 2 guesses/fires at row 41 column 39.
+Player 1 answers that guess/shot missed.
+Round 1122
+Player 2 guesses/fires at row 5 column 7.
+Player 1 answers that guess/shot missed.
+Round 1123
+Player 2 guesses/fires at row 5 column 31.
+Player 1 answers that guess/shot missed.
+Round 1124
+Player 2 guesses/fires at row 17 column 13.
+Player 1 answers that guess/shot missed.
+Round 1125
+Player 2 guesses/fires at row 13 column 17.
+Player 1 answers that guess/shot missed.
+Round 1126
+Player 2 guesses/fires at row 21 column 43.
+Player 1 answers that guess/shot missed.
+Round 1127
+Player 2 guesses/fires at row 6 column 0.
+Player 1 answers that guess/shot missed.
+Round 1128
+Player 2 guesses/fires at row 17 column 39.
+Player 1 answers that guess/shot missed.
+Round 1129
+Player 2 guesses/fires at row 34 column 32.
+Player 1 answers that guess/shot missed.
+Round 1130
+Player 2 guesses/fires at row 48 column 18.
+Player 1 answers that guess/shot missed.
+Round 1131
+Player 2 guesses/fires at row 21 column 41.
+Player 1 answers that guess/shot missed.
+Round 1132
+Player 2 guesses/fires at row 5 column 33.
+Player 1 answers that guess/shot missed.
+Round 1133
+Player 2 guesses/fires at row 30 column 40.
+Player 1 answers that guess/shot missed.
+Round 1134
+Player 2 guesses/fires at row 36 column 30.
+Player 1 answers that guess/shot missed.
+Round 1135
+Player 2 guesses/fires at row 44 column 0.
+Player 1 answers that guess/shot missed.
+Round 1136
+Player 2 guesses/fires at row 1 column 5.
+Player 1 answers that guess/shot missed.
+Round 1137
+Player 2 guesses/fires at row 20 column 8.
+Player 1 answers that guess/shot missed.
+Round 1138
+Player 2 guesses/fires at row 28 column 22.
+Player 1 answers that guess/shot missed.
+Round 1139
+Player 2 guesses/fires at row 3 column 29.
+Player 1 answers that guess/shot missed.
+Round 1140
+Player 2 guesses/fires at row 4 column 34.
+Player 1 answers that guess/shot missed.
+Round 1141
+Player 2 guesses/fires at row 35 column 39.
+Player 1 answers that guess/shot missed.
+Round 1142
+Player 2 guesses/fires at row 37 column 27.
+Player 1 answers that guess/shot missed.
+Round 1143
+Player 2 guesses/fires at row 34 column 0.
+Player 1 answers that guess/shot missed.
+Round 1144
+Player 2 guesses/fires at row 9 column 21.
+Player 1 answers that guess/shot missed.
+Round 1145
+Player 2 guesses/fires at row 45 column 23.
+Player 1 answers that guess/shot missed.
+Round 1146
+Player 2 guesses/fires at row 9 column 33.
+Player 1 answers that guess/shot missed.
+Round 1147
+Player 2 guesses/fires at row 8 column 34.
+Player 1 answers that guess/shot missed.
+Round 1148
+Player 2 guesses/fires at row 45 column 29.
+Player 1 answers that guess/shot missed.
+Round 1149
+Player 2 guesses/fires at row 6 column 8.
+Player 1 answers that guess/shot missed.
+Round 1150
+Player 2 guesses/fires at row 28 column 10.
+Player 1 answers that guess/shot missed.
+Round 1151
+Player 2 guesses/fires at row 20 column 44.
+Player 1 answers that guess/shot missed.
+Round 1152
+Player 2 guesses/fires at row 8 column 46.
+Player 1 answers that guess/shot missed.
+Round 1153
+Player 2 guesses/fires at row 48 column 38.
+Player 1 answers that guess/shot missed.
+Round 1154
+Player 2 guesses/fires at row 41 column 37.
+Player 1 answers that guess/shot missed.
+Round 1155
+Player 2 guesses/fires at row 7 column 25.
+Player 1 answers that guess/shot missed.
+Round 1156
+Player 2 guesses/fires at row 17 column 35.
+Player 1 answers that guess/shot missed.
+Round 1157
+Player 2 guesses/fires at row 8 column 8.
+Player 1 answers that guess/shot missed.
+Round 1158
+Player 2 guesses/fires at row 9 column 39.
+Player 1 answers that guess/shot missed.
+Round 1159
+Player 2 guesses/fires at row 16 column 10.
+Player 1 answers that guess/shot missed.
+Round 1160
+Player 2 guesses/fires at row 44 column 22.
+Player 1 answers that guess/shot missed.
+Round 1161
+Player 2 guesses/fires at row 28 column 4.
+Player 1 answers that guess/shot missed.
+Round 1162
+Player 2 guesses/fires at row 26 column 22.
+Player 1 answers that guess/shot missed.
+Round 1163
+Player 2 guesses/fires at row 37 column 23.
+Player 1 answers that guess/shot missed.
+Round 1164
+Player 2 guesses/fires at row 34 column 22.
+Player 1 answers that guess/shot missed.
+Round 1165
+Player 2 guesses/fires at row 41 column 47.
+Player 1 answers that guess/shot missed.
+Round 1166
+Player 2 guesses/fires at row 30 column 48.
+Player 1 answers that guess/shot missed.
+Round 1167
+Player 2 guesses/fires at row 24 column 20.
+Player 1 answers that guess/shot missed.
+Round 1168
+Player 2 guesses/fires at row 0 column 2.
+Player 1 answers that guess/shot missed.
+Round 1169
+Player 2 guesses/fires at row 42 column 24.
+Player 1 answers that guess/shot missed.
+Round 1170
+Player 2 guesses/fires at row 10 column 4.
+Player 1 answers that guess/shot missed.
+Round 1171
+Player 2 guesses/fires at row 47 column 27.
+Player 1 answers that guess/shot missed.
+Round 1172
+Player 2 guesses/fires at row 1 column 13.
+Player 1 answers that guess/shot missed.
+Round 1173
+Player 2 guesses/fires at row 43 column 25.
+Player 1 answers that guess/shot missed.
+Round 1174
+Player 2 guesses/fires at row 19 column 35.
+Player 1 answers that guess/shot missed.
+Round 1175
+Player 2 guesses/fires at row 27 column 31.
+Player 1 answers that guess/shot missed.
+Round 1176
+Player 2 guesses/fires at row 3 column 39.
+Player 1 answers that guess/shot missed.
+Round 1177
+Player 2 guesses/fires at row 34 column 6.
+Player 1 answers that guess/shot missed.
+Round 1178
+Player 2 guesses/fires at row 12 column 14.
+Player 1 answers that guess/shot missed.
+Round 1179
+Player 2 guesses/fires at row 44 column 12.
+Player 1 answers that guess/shot missed.
+Round 1180
+Player 2 guesses/fires at row 20 column 34.
+Player 1 answers that guess/shot missed.
+Round 1181
+Player 2 guesses/fires at row 47 column 13.
+Player 1 answers that guess/shot missed.
+Round 1182
+Player 2 guesses/fires at row 2 column 40.
+Player 1 answers that guess/shot missed.
+Round 1183
+Player 2 guesses/fires at row 18 column 16.
+Player 1 answers that guess/shot missed.
+Round 1184
+Player 2 guesses/fires at row 24 column 14.
+Player 1 answers that guess/shot missed.
+Round 1185
+Player 2 guesses/fires at row 40 column 40.
+Player 1 answers that guess/shot missed.
+Round 1186
+Player 2 guesses/fires at row 23 column 47.
+Player 1 answers that guess/shot missed.
+Round 1187
+Player 2 guesses/fires at row 30 column 46.
+Player 1 answers that guess/shot missed.
+Round 1188
+Player 2 guesses/fires at row 43 column 11.
+Player 1 answers that guess/shot missed.
+Round 1189
+Player 2 guesses/fires at row 7 column 49.
+Player 1 answers that guess/shot missed.
+Round 1190
+Player 2 guesses/fires at row 2 column 46.
+Player 1 answers that guess/shot missed.
+Round 1191
+Player 2 guesses/fires at row 39 column 49.
+Player 1 answers that guess/shot missed.
+Round 1192
+Player 2 guesses/fires at row 33 column 13.
+Player 1 answers that guess/shot missed.
+Round 1193
+Player 2 guesses/fires at row 9 column 31.
+Player 1 answers that guess/shot missed.
+Round 1194
+Player 2 guesses/fires at row 21 column 3.
+Player 1 answers that guess/shot missed.
+Round 1195
+Player 2 guesses/fires at row 4 column 26.
+Player 1 answers that guess/shot missed.
+Round 1196
+Player 2 guesses/fires at row 31 column 13.
+Player 1 answers that guess/shot missed.
+Round 1197
+Player 2 guesses/fires at row 49 column 21.
+Player 1 answers that guess/shot missed.
+Round 1198
+Player 2 guesses/fires at row 10 column 42.
+Player 1 answers that guess/shot missed.
+Round 1199
+Player 2 guesses/fires at row 35 column 21.
+Player 1 answers that guess/shot missed.
+Round 1200
+Player 2 guesses/fires at row 39 column 37.
+Player 1 answers that guess/shot missed.
+Round 1201
+Player 2 guesses/fires at row 2 column 4.
+Player 1 answers that guess/shot missed.
+Round 1202
+Player 2 guesses/fires at row 24 column 18.
+Player 1 answers that guess/shot missed.
+Round 1203
+Player 2 guesses/fires at row 32 column 18.
+Player 1 answers that guess/shot missed.
+Round 1204
+Player 2 guesses/fires at row 10 column 20.
+Player 1 answers that a ship is hit.
+Round 1205
+Player 2 guesses/fires at row 10 column 21.
+Player 1 answers that guess/shot missed.
+Round 1206
+Player 2 guesses/fires at row 10 column 19.
+Player 1 answers that guess/shot missed.
+Round 1207
+Player 2 guesses/fires at row 11 column 20.
+Player 1 answers that guess/shot missed.
+Round 1208
+Player 2 guesses/fires at row 9 column 20.
+Player 1 answers that the PatrolCraft is hit and sunk.
+Player 1 took 504 rounds to destroy opponent's ships.
+Player 2 took 1208 rounds to destroy opponent's ships.
+Player 1 wins.
